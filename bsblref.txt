@@ -215,7 +215,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 
 
 
-    <meta name="revised" content="15:56:07 26-Apr-2023" />
+    <meta name="revised" content="13:56:07 27-Apr-2023" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="generated-by"     content="build_home_page.pl" />
@@ -302,7 +302,7 @@ loadJS( _sr_modern_url, function() { vjs_ready(sr_fire_js); });
 	
 	
 	
-	<li><a href="https://fbref.com/it/?utm_source=br&utm_medium=sr_xsite&utm_campaign=2023_01_srnav">Calcio</a></li>
+	<li><a href="https://fbref.com/en/?utm_source=br&utm_medium=sr_xsite&utm_campaign=2023_01_srnav">Soccer</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/?utm_source=br&utm_medium=sr_xsite&utm_campaign=2023_01_srnav">Blog</a></li>
 
@@ -417,34 +417,34 @@ sr_menus_setupMainNav_button_inline();
         
         
 	<div class="" id="players" >
-		<h2><a href="/players/">22,902 Major League Players</a></h2>
+		<h2><a href="/players/">22,905 Major League Players</a></h2>
 		
 
 
 <div class="images">
-	<a href="/players/m/mathech01.shtml"><img class="poptip" data-tip="Christy Mathewson" alt="Christy Mathewson" src="https://www.baseball-reference.com/req/202303230/images/headshots/f/f13c56ed_davis.jpg"></a>
+	<a href="/players/z/zachato01.shtml"><img class="poptip" data-tip="Tom Zachary" alt="Tom Zachary" src="https://www.baseball-reference.com/req/202303230/images/headshots/b/b15fdeca_davis.jpg"></a>
 	
-	<a href="/players/a/adamsac01.shtml"><img class="poptip" data-tip="Ace Adams" alt="Ace Adams" src="https://www.baseball-reference.com/req/202303230/images/headshots/7/7b5eb228_sabr.jpg"></a>
+	<a href="/players/l/laabsch01.shtml"><img class="poptip" data-tip="Chet Laabs" alt="Chet Laabs" src="https://www.baseball-reference.com/req/202303230/images/headshots/c/cd3b79db_sabr.jpg"></a>
 	
-	<a href="/players/s/soriajo01.shtml"><img class="poptip" data-tip="Joakim Soria" alt="Joakim Soria" src="https://www.baseball-reference.com/req/202303230/images/headshots/9/905d797d_mlbam.jpg"></a>
+	<a href="/players/n/napolmi01.shtml"><img class="poptip" data-tip="Mike Napoli" alt="Mike Napoli" src="https://www.baseball-reference.com/req/202303230/images/headshots/3/3aba07c9_mlbam.jpg"></a>
 	
-	<a href="/players/o/odombl01.shtml"><img class="poptip" data-tip="Blue Moon Odom" alt="Blue Moon Odom" src="https://www.baseball-reference.com/req/202303230/images/headshots/f/faf51a0a_davis.jpg"></a>
+	<a href="/players/b/bellco99.shtml"><img class="poptip" data-tip="Cool Papa Bell" alt="Cool Papa Bell" src="https://www.baseball-reference.com/req/202303230/images/headshots/5/59f9fc99_seamheads.jpg"></a>
 	
-	<a href="/players/e/easleda01.shtml"><img class="poptip" data-tip="Damion Easley" alt="Damion Easley" src="https://www.baseball-reference.com/req/202303230/images/headshots/4/4491f5dc_davis.jpg"></a>
+	<a href="/players/h/hintoch01.shtml"><img class="poptip" data-tip="Chuck Hinton" alt="Chuck Hinton" src="https://www.baseball-reference.com/req/202303230/images/headshots/4/4c457fb5_davis.jpg"></a>
 	
-	<a href="/players/a/allenne02.shtml"><img class="poptip" data-tip="Newt Allen" alt="Newt Allen" src="https://www.baseball-reference.com/req/202303230/images/headshots/7/70a42a10_br.jpg"></a>
+	<a href="/players/b/brownwi02.shtml"><img class="poptip" data-tip="Willard Brown" alt="Willard Brown" src="https://www.baseball-reference.com/req/202303230/images/headshots/4/49784799_davis.jpg"></a>
 	
-	<a href="/players/p/pencehu01.shtml"><img class="poptip" data-tip="Hunter Pence" alt="Hunter Pence" src="https://www.baseball-reference.com/req/202303230/images/headshots/6/64a40670_mlbam.jpg"></a>
+	<a href="/players/m/murphda05.shtml"><img class="poptip" data-tip="Dale Murphy" alt="Dale Murphy" src="https://www.baseball-reference.com/req/202303230/images/headshots/2/27a949d7_sabr.jpg"></a>
 	
-	<a href="/players/s/stripro01.shtml"><img class="poptip" data-tip="Ross Stripling" alt="Ross Stripling" src="https://www.baseball-reference.com/req/202303230/images/headshots/d/d2655ddb_milb.jpg"></a>
+	<a href="/players/u/uriasju01.shtml"><img class="poptip" data-tip="Julio Urías" alt="Julio Urías" src="https://www.baseball-reference.com/req/202303230/images/headshots/7/7cc7fb70_mlbam.jpg"></a>
 	
-	<a href="/players/b/benjaje01.shtml"><img class="poptip" data-tip="Jerry Benjamin" alt="Jerry Benjamin" src="https://www.baseball-reference.com/req/202303230/images/headshots/3/3631b8d6_seamheads.jpg"></a>
+	<a href="/players/m/mcdufte01.shtml"><img class="poptip" data-tip="Terris McDuffie" alt="Terris McDuffie" src="https://www.baseball-reference.com/req/202303230/images/headshots/1/159f770b_seamheads.jpg"></a>
 	
-	<a href="/players/m/mogrige01.shtml"><img class="poptip" data-tip="George Mogridge" alt="George Mogridge" src="https://www.baseball-reference.com/req/202303230/images/headshots/3/3e7012a7_sabr.jpg"></a>
+	<a href="/players/u/uribeju01.shtml"><img class="poptip" data-tip="Juan Uribe" alt="Juan Uribe" src="https://www.baseball-reference.com/req/202303230/images/headshots/f/fd1b7e5d_mlbam.jpg"></a>
 	
-	<a href="/players/b/brazlal01.shtml"><img class="poptip" data-tip="Al Brazle" alt="Al Brazle" src="https://www.baseball-reference.com/req/202303230/images/headshots/a/ae106d5b_sabr.jpg"></a>
+	<a href="/players/m/mooredo02.shtml"><img class="poptip" data-tip="Dobie Moore" alt="Dobie Moore" src="https://www.baseball-reference.com/req/202303230/images/headshots/5/5415478f_seamheads.jpg"></a>
 	
-	<a href="/players/l/lloydjo99.shtml"><img class="poptip" data-tip="John Henry Lloyd" alt="John Henry Lloyd" src="https://www.baseball-reference.com/req/202303230/images/headshots/3/3eb808b9_seamheads.jpg"></a>
+	<a href="/players/r/ruelmu01.shtml"><img class="poptip" data-tip="Muddy Ruel" alt="Muddy Ruel" src="https://www.baseball-reference.com/req/202303230/images/headshots/c/cd44a05b_sabr.jpg"></a>
 	</div>
 
 <form class="srbasic sr_goto no-deserialize concat js-select" id="player_roster"  method="get" action="/route.cgi">
@@ -535,7 +535,7 @@ sr_menus_setupMainNav_button_inline();
 		
 			
 			<div class="fieldset">
-			<div class="formfield"><input type="submit" name="go_button" id="go_button_411" value="Go!"></div>
+			<div class="formfield"><input type="submit" name="go_button" id="go_button_179" value="Go!"></div>
 			</div>
 		
 	
@@ -1242,7 +1242,7 @@ sr_menus_setupMainNav_button_inline();
 		
 			
 			<div class="fieldset">
-			<div class="formfield"><input type="submit" name="go_button" id="go_button_809" value="Go!"></div>
+			<div class="formfield"><input type="submit" name="go_button" id="go_button_468" value="Go!"></div>
 			</div>
 		
 	
@@ -1252,29 +1252,29 @@ sr_menus_setupMainNav_button_inline();
 <div>
 	<h3>Trending Player Pages</h3>
 	
-	<a href="/players/r/reynobr01.shtml">Bryan Reynolds</a>, 
-	
 	<a href="/players/o/ohtansh01.shtml">Shohei Ohtani</a>, 
-	
-	<a href="/players/t/troutmi01.shtml">Mike Trout</a>, 
-	
-	<a href="/players/m/mccutan01.shtml">Andrew McCutchen</a>, 
-	
-	<a href="/players/s/stridsp01.shtml">Spencer Strider</a>, 
 	
 	<a href="/register/player.fcgi?id=maggi-001and">Drew Maggi</a>, 
 	
-	<a href="/players/g/gallojo01.shtml">Joey Gallo</a>, 
-	
 	<a href="/players/j/judgeaa01.shtml">Aaron Judge</a>, 
+	
+	<a href="/players/t/troutmi01.shtml">Mike Trout</a>, 
 	
 	<a href="/players/s/sotoju01.shtml">Juan Soto</a>, 
 	
-	<a href="/players/k/kelenja01.shtml">Jarred Kelenic</a>
+	<a href="/register/player.fcgi?id=walker000jor">Jordan Walker</a>, 
+	
+	<a href="/players/r/reynobr01.shtml">Bryan Reynolds</a>, 
+	
+	<a href="/players/k/kelenja01.shtml">Jarred Kelenic</a>, 
+	
+	<a href="/players/r/rayro02.shtml">Robbie Ray</a>, 
+	
+	<a href="/players/t/tatisfe02.shtml">Fernando Tatis Jr.</a>
 	
 </div>
  <div><h3><a href="/leagues/majors/2023-debuts.shtml">Recent Debuts</a></h3>
-        <a href="/players/b/buschmi02.shtml">Michael Busch</a> (LAD), <a href="/players/d/doylebr02.shtml">Brenton Doyle</a> (COL), <a href="/players/a/allenlo02.shtml">Logan Allen</a> (CLE), <a href="/players/b/becktr01.shtml">Tristan Beck</a> (SFG), <a href="/players/s/stoudle01.shtml">Levi Stoudt</a> (CIN) and <a href="/players/p/perkibl01.shtml">Blake Perkins</a> (MIL)
+        <a href="/players/b/bibeeta01.shtml">Tanner Bibee</a> (CLE), <a href="/players/m/maggidr01.shtml">Drew Maggi</a> (PIT), <a href="/players/m/medinlu02.shtml">Luis Medina</a> (OAK), <a href="/players/b/buschmi02.shtml">Michael Busch</a> (LAD), <a href="/players/d/doylebr02.shtml">Brenton Doyle</a> (COL) and <a href="/players/a/allenlo02.shtml">Logan Allen</a> (CLE)
 </div>
 
 <div><h3><a href="/register">Minor, Foreign, College, &amp; Black Baseball</a></h3>
@@ -1292,13 +1292,13 @@ Our professional baseball register has stats from the Minor, Negro, Japan, Cuban
 	<a href="/players/k/klagefr01.shtml">Fred Klages</a>
 </div>
 
-<div><h3><a href="/friv/birthdays.cgi?month=4&amp;day=26">Born On This Day</a></h3>
-<a href="/players/a/alexada01.shtml">Dale Alexander</a>, <a href="/players/k/kellnwa01.shtml">Walt Kellner</a>, <a href="/players/a/anderbr02.shtml">Brian Anderson</a>, <a href="/players/h/hamnegr01.shtml">Granny Hamner</a>, <a href="/players/l/lyonsbi01.shtml">Bill Lyons</a> and <a href="/players/l/lombast01.shtml">Steve Lombardozzi</a>
+<div><h3><a href="/friv/birthdays.cgi?month=4&amp;day=27">Born On This Day</a></h3>
+<a href="/players/w/whitejo02.shtml">John Whitehead</a>, <a href="/players/w/willibo01.shtml">Bob Williams</a>, <a href="/players/h/higdobi01.shtml">Bill Higdon</a>, <a href="/players/h/hayesjo01.shtml">Johnny Hayes</a>, <a href="/players/s/sothoal01.shtml">Allen Sothoron</a> and <a href="/players/h/hinridu01.shtml">Dutch Hinrichs</a>
 </div>
 <p class="desc">Player pages include basic statistics and links to player's gamelogs, splits, and more.</p><script class="allowed">
 var sr_goto_json = (typeof sr_goto_json === 'undefined') ? {} : sr_goto_json;
 sr_goto_json["player_json"] = {
-'ARI': [{ '': 'Pick a Player' },{ "/players/a/ahmedni01.shtml" : "Nick Ahmed" },{ "/players/b/beerse01.shtml" : "Seth Beer" },{ "/players/b/bumgama01.shtml" : "Madison Bumgarner" },{ "/players/c/carroco02.shtml" : "Corbin Carroll" },{ "/players/c/castidi02.shtml" : "Diego Castillo" },{ "/players/c/castrmi01.shtml" : "Miguel Castro" },{ "/players/c/chafian01.shtml" : "Andrew Chafin" },{ "/players/d/davieza02.shtml" : "Zach Davies" },{ "/players/f/friaslu01.shtml" : "Luis Frías" },{ "/players/g/galleza01.shtml" : "Zac Gallen" },{ "/players/g/ginkeke01.shtml" : "Kevin Ginkel" },{ "/players/g/gurrilo01.shtml" : "Lourdes Gurriel Jr." },{ "/players/h/henryto01.shtml" : "Tommy Henry" },{ "/players/h/herrejo04.shtml" : "Jose Herrera" },{ "/players/j/jamesdr01.shtml" : "Drey Jameson" },{ "/players/k/kellyca02.shtml" : "Carson Kelly" },{ "/players/k/kellyme01.shtml" : "Merrill Kelly" },{ "/players/l/lewisky01.shtml" : "Kyle Lewis" },{ "/players/l/longoev01.shtml" : "Evan Longoria" },{ "/players/m/mantijo01.shtml" : "Joe Mantiply" },{ "/players/m/marteke01.shtml" : "Ketel Marte" },{ "/players/m/martico02.shtml" : "Corbin Martin" },{ "/players/m/mccarja02.shtml" : "Jake McCarthy" },{ "/players/m/mcgousc01.shtml" : "Scott McGough" },{ "/players/m/melanma01.shtml" : "Mark Melancon" },{ "/players/m/misiean01.shtml" : "Anthony Misiewicz" },{ "/players/m/morenga01.shtml" : "Gabriel Moreno" },{ "/players/n/nelsoky01.shtml" : "Kyle Nelson" },{ "/players/n/nelsory01.shtml" : "Ryne Nelson" },{ "/players/p/perdoge01.shtml" : "Geraldo Perdomo" },{ "/players/r/riverem01.shtml" : "Emmanuel Rivera" },{ "/players/r/rojasjo01.shtml" : "Josh Rojas" },{ "/players/r/ruizjo01.shtml" : "José Ruiz" },{ "/players/s/smithpa04.shtml" : "Pavin Smith" },{ "/players/s/solompe01.shtml" : "Peter Solomon" },{ "/players/s/sulseco01.shtml" : "Cole Sulser" },{ "/players/t/thomaal01.shtml" : "Alek Thomas" },{ "/players/v/vargaca01.shtml" : "Carlos Vargas" },{ "/players/w/walkech02.shtml" : "Christian Walker" }],
+'ARI': [{ '': 'Pick a Player' },{ "/players/a/ahmedni01.shtml" : "Nick Ahmed" },{ "/players/b/beerse01.shtml" : "Seth Beer" },{ "/players/c/carroco02.shtml" : "Corbin Carroll" },{ "/players/c/castidi02.shtml" : "Diego Castillo" },{ "/players/c/castrmi01.shtml" : "Miguel Castro" },{ "/players/c/chafian01.shtml" : "Andrew Chafin" },{ "/players/d/davieza02.shtml" : "Zach Davies" },{ "/players/f/friaslu01.shtml" : "Luis Frías" },{ "/players/g/galleza01.shtml" : "Zac Gallen" },{ "/players/g/ginkeke01.shtml" : "Kevin Ginkel" },{ "/players/g/gurrilo01.shtml" : "Lourdes Gurriel Jr." },{ "/players/h/henryto01.shtml" : "Tommy Henry" },{ "/players/h/herrejo04.shtml" : "Jose Herrera" },{ "/players/j/jamesdr01.shtml" : "Drey Jameson" },{ "/players/k/kellyca02.shtml" : "Carson Kelly" },{ "/players/k/kellyme01.shtml" : "Merrill Kelly" },{ "/players/l/lewisky01.shtml" : "Kyle Lewis" },{ "/players/l/longoev01.shtml" : "Evan Longoria" },{ "/players/m/mantijo01.shtml" : "Joe Mantiply" },{ "/players/m/marteke01.shtml" : "Ketel Marte" },{ "/players/m/martico02.shtml" : "Corbin Martin" },{ "/players/m/mccarja02.shtml" : "Jake McCarthy" },{ "/players/m/mcgousc01.shtml" : "Scott McGough" },{ "/players/m/melanma01.shtml" : "Mark Melancon" },{ "/players/m/misiean01.shtml" : "Anthony Misiewicz" },{ "/players/m/morenga01.shtml" : "Gabriel Moreno" },{ "/players/n/nelsoky01.shtml" : "Kyle Nelson" },{ "/players/n/nelsory01.shtml" : "Ryne Nelson" },{ "/players/p/perdoge01.shtml" : "Geraldo Perdomo" },{ "/players/r/riverem01.shtml" : "Emmanuel Rivera" },{ "/players/r/rojasjo01.shtml" : "Josh Rojas" },{ "/players/r/ruizjo01.shtml" : "José Ruiz" },{ "/players/s/smithpa04.shtml" : "Pavin Smith" },{ "/players/s/solompe01.shtml" : "Peter Solomon" },{ "/players/s/sulseco01.shtml" : "Cole Sulser" },{ "/players/t/thomaal01.shtml" : "Alek Thomas" },{ "/players/v/vargaca01.shtml" : "Carlos Vargas" },{ "/players/w/walkech02.shtml" : "Christian Walker" }],
 'ATL': [{ '': 'Pick a Player' },{ "/players/a/acunaro01.shtml" : "Ronald Acuna Jr." },{ "/players/a/adriaeh01.shtml" : "Ehire Adrianza" },{ "/players/a/albieoz01.shtml" : "Ozzie Albies" },{ "/players/a/allarko01.shtml" : "Kolby Allard" },{ "/players/a/anderia01.shtml" : "Ian Anderson" },{ "/players/a/anderni01.shtml" : "Nick Anderson" },{ "/players/a/arciaor01.shtml" : "Orlando Arcia" },{ "/players/c/chaveje01.shtml" : "Jesse Chavez" },{ "/players/d/darnatr01.shtml" : "Travis d'Arnaud" },{ "/players/d/dodddy01.shtml" : "Dylan Dodd" },{ "/players/e/elderbr01.shtml" : "Bryce Elder" },{ "/players/f/friedma01.shtml" : "Max Fried" },{ "/players/g/grissva01.shtml" : "Vaughn Grissom" },{ "/players/h/harrimi04.shtml" : "Michael Harris II" },{ "/players/h/hillisa01.shtml" : "Sam Hilliard" },{ "/players/i/iglesra01.shtml" : "Raisel Iglesias" },{ "/players/j/jimenjo02.shtml" : "Joe Jiménez" },{ "/players/l/leedy01.shtml" : "Dylan Lee" },{ "/players/l/luetglu01.shtml" : "Lucas Luetge" },{ "/players/m/matzety01.shtml" : "Tyler Matzek" },{ "/players/m/mchugco01.shtml" : "Collin McHugh" },{ "/players/m/minteaj01.shtml" : "A.J. Minter" },{ "/players/m/mortoch02.shtml" : "Charlie Morton" },{ "/players/m/murphse01.shtml" : "Sean Murphy" },{ "/players/o/olsonma02.shtml" : "Matt Olson" },{ "/players/o/ozunama01.shtml" : "Marcell Ozuna" },{ "/players/p/pillake01.shtml" : "Kevin Pillar" },{ "/players/r/rileyau01.shtml" : "Austin Riley" },{ "/players/r/rosared01.shtml" : "Eddie Rosario" },{ "/players/s/shustja01.shtml" : "Jared Shuster" },{ "/players/s/solakni01.shtml" : "Nick Solak" },{ "/players/s/sorokmi01.shtml" : "Michael Soroka" },{ "/players/s/stridsp01.shtml" : "Spencer Strider" },{ "/players/t/tonkimi01.shtml" : "Michael Tonkin" },{ "/players/t/trompch01.shtml" : "Chadwick Tromp" },{ "/players/w/whiteel04.shtml" : "Eli White" },{ "/players/w/wrighky01.shtml" : "Kyle Wright" },{ "/players/y/yateski01.shtml" : "Kirby Yates" },{ "/players/y/ynoahu01.shtml" : "Huascar Ynoa" },{ "/players/y/youngda02.shtml" : "Danny Young" }],
 'BAL': [{ '': 'Pick a Player' },{ "/players/a/akinke01.shtml" : "Keegan Akin" },{ "/players/b/bakerbr01.shtml" : "Bryan Baker" },{ "/players/b/baumami01.shtml" : "Mike Baumann" },{ "/players/b/bautife01.shtml" : "Félix Bautista" },{ "/players/b/bradiky01.shtml" : "Kyle Bradish" },{ "/players/c/canoye01.shtml" : "Yennier Cano" },{ "/players/c/couloda01.shtml" : "Danny Coulombe" },{ "/players/f/fraziad01.shtml" : "Adam Frazier" },{ "/players/g/gibsoky01.shtml" : "Kyle Gibson" },{ "/players/g/gillalo01.shtml" : "Logan Gillaspie" },{ "/players/g/givenmy01.shtml" : "Mychal Givens" },{ "/players/h/halldl01.shtml" : "DL Hall" },{ "/players/h/haysau01.shtml" : "Austin Hays" },{ "/players/h/hendegu01.shtml" : "Gunnar Henderson" },{ "/players/i/irvinco01.shtml" : "Cole Irvin" },{ "/players/k/krehbjo01.shtml" : "Joey Krehbiel" },{ "/players/k/kremede01.shtml" : "Dean Kremer" },{ "/players/m/mateojo01.shtml" : "Jorge Mateo" },{ "/players/m/mccanja02.shtml" : "James McCann" },{ "/players/m/mckenry01.shtml" : "Ryan McKenna" },{ "/players/m/meansjo01.shtml" : "John Means" },{ "/players/m/mountry01.shtml" : "Ryan Mountcastle" },{ "/players/m/mullice01.shtml" : "Cedric Mullins" },{ "/players/o/ohearry01.shtml" : "Ryan O'Hearn" },{ "/players/p/perezci01.shtml" : "Cionel Pérez" },{ "/players/r/rodrigr01.shtml" : "Grayson Rodriguez" },{ "/players/r/rutscad01.shtml" : "Adley Rutschman" },{ "/players/s/santaan02.shtml" : "Anthony Santander" },{ "/players/s/stoweky01.shtml" : "Kyle Stowers" },{ "/players/t/tatedi01.shtml" : "Dillon Tate" },{ "/players/u/uriasra01.shtml" : "Ramón Urías" },{ "/players/v/vavrate01.shtml" : "Terrin Vavra" },{ "/players/v/vespini01.shtml" : "Nick Vespi" },{ "/players/v/vothau01.shtml" : "Austin Voth" },{ "/players/w/watkisp01.shtml" : "Spenser Watkins" },{ "/players/w/wellsty01.shtml" : "Tyler Wells" },{ "/players/z/zimmebr02.shtml" : "Bruce Zimmermann" }],
 'BOS': [{ '': 'Pick a Player' },{ "/players/a/arroych01.shtml" : "Christian Arroyo" },{ "/players/b/bellobr01.shtml" : "Brayan Bello" },{ "/players/b/bernabr01.shtml" : "Brennan Bernardino" },{ "/players/b/bleieri01.shtml" : "Richard Bleier" },{ "/players/b/brasiry01.shtml" : "Ryan Brasier" },{ "/players/c/casastr01.shtml" : "Triston Casas" },{ "/players/c/changyu01.shtml" : "Yu Chang" },{ "/players/c/crawfku01.shtml" : "Kutter Crawford" },{ "/players/d/dalbebo01.shtml" : "Bobby Dalbec" },{ "/players/d/deverra01.shtml" : "Rafael Devers" },{ "/players/d/duranja01.shtml" : "Jarren Duran" },{ "/players/d/duvalad01.shtml" : "Adam Duvall" },{ "/players/h/hernaen02.shtml" : "Enrique Hernández" },{ "/players/h/houckta01.shtml" : "Tanner Houck" },{ "/players/j/janseke01.shtml" : "Kenley Jansen" },{ "/players/k/kellyza01.shtml" : "Zack Kelly" },{ "/players/k/klubeco01.shtml" : "Corey Kluber" },{ "/players/m/martich02.shtml" : "Chris Martin" },{ "/players/m/mcguire01.shtml" : "Reese McGuire" },{ "/players/m/millswy01.shtml" : "Wyatt Mills" },{ "/players/m/mondera02.shtml" : "Adalberto Mondesí" },{ "/players/o/ortka01.shtml" : "Kaleb Ort" },{ "/players/p/paxtoja01.shtml" : "James Paxton" },{ "/players/p/pivetni01.shtml" : "Nick Pivetta" },{ "/players/r/refsnro01.shtml" : "Rob Refsnyder" },{ "/players/r/rodrijo06.shtml" : "Joely Rodríguez" },{ "/players/s/salech01.shtml" : "Chris Sale" },{ "/players/s/schrejo01.shtml" : "John Schreiber" },{ "/players/s/storytr01.shtml" : "Trevor Story" },{ "/players/t/tapiara01.shtml" : "Raimel Tapia" },{ "/players/t/turneju01.shtml" : "Justin Turner" },{ "/players/v/valdeen01.shtml" : "Enmanuel Valdez" },{ "/players/v/verdual01.shtml" : "Alex Verdugo" },{ "/players/w/whitlga01.shtml" : "Garrett Whitlock" },{ "/players/w/winckjo01.shtml" : "Josh Winckowski" },{ "/players/w/wongco01.shtml" : "Connor Wong" },{ "/players/y/yoshima02.shtml" : "Masataka Yoshida" }],
@@ -1311,20 +1311,20 @@ sr_goto_json["player_json"] = {
 'HOU': [{ '': 'Pick a Player' },{ "/players/a/abreubr01.shtml" : "Bryan Abreu" },{ "/players/a/abreujo02.shtml" : "José Abreu" },{ "/players/a/altuvjo01.shtml" : "Jose Altuve" },{ "/players/a/alvaryo01.shtml" : "Yordan Alvarez" },{ "/players/b/bannory01.shtml" : "Rylan Bannon" },{ "/players/b/bielabr01.shtml" : "Brandon Bielak" },{ "/players/b/blancro01.shtml" : "Ronel Blanco" },{ "/players/b/brantmi02.shtml" : "Michael Brantley" },{ "/players/b/bregmal01.shtml" : "Alex Bregman" },{ "/players/b/brownhu01.shtml" : "Hunter Brown" },{ "/players/d/diazya02.shtml" : "Yainer Diaz" },{ "/players/d/dubonma01.shtml" : "Mauricio Dubón" },{ "/players/g/gagema01.shtml" : "Matt Gage" },{ "/players/g/garcilu05.shtml" : "Luis Garcia" },{ "/players/h/henslda01.shtml" : "David Hensley" },{ "/players/j/javiecr01.shtml" : "Cristian Javier" },{ "/players/j/julksco01.shtml" : "Corey Julks" },{ "/players/l/leeko01.shtml" : "Korey Lee" },{ "/players/m/maldoma01.shtml" : "Martín Maldonado" },{ "/players/m/martise01.shtml" : "Seth Martinez" },{ "/players/m/matonph01.shtml" : "Phil Maton" },{ "/players/m/mccorch01.shtml" : "Chas McCormick" },{ "/players/m/mcculla02.shtml" : "Lance McCullers Jr." },{ "/players/m/meyerja02.shtml" : "Jake Meyers" },{ "/players/m/montera01.shtml" : "Rafael Montero" },{ "/players/m/mushipa01.shtml" : "Parker Mushinski" },{ "/players/n/nerishe01.shtml" : "Hector Neris" },{ "/players/p/pareden01.shtml" : "Enoli Paredes" },{ "/players/p/penaje02.shtml" : "Jeremy Peña" },{ "/players/p/perezjo02.shtml" : "Joe Perez" },{ "/players/p/pressry01.shtml" : "Ryan Pressly" },{ "/players/s/salazce01.shtml" : "César Salazar" },{ "/players/s/stanery01.shtml" : "Ryne Stanek" },{ "/players/t/taylobl01.shtml" : "Blake Taylor" },{ "/players/t/tuckeky01.shtml" : "Kyle Tucker" },{ "/players/u/urquijo01.shtml" : "José Urquidy" },{ "/players/v/valdefr01.shtml" : "Framber Valdez" }],
 'KCR': [{ '': 'Pick a Player' },{ "/players/b/barlosc01.shtml" : "Scott Barlow" },{ "/players/b/bradlja02.shtml" : "Jackie Bradley Jr." },{ "/players/b/brentja01.shtml" : "Jake Brentz" },{ "/players/b/bubickr01.shtml" : "Kris Bubic" },{ "/players/c/castima03.shtml" : "Max Castillo" },{ "/players/c/chapmar01.shtml" : "Aroldis Chapman" },{ "/players/c/clarkta01.shtml" : "Taylor Clarke" },{ "/players/c/colemdy01.shtml" : "Dylan Coleman" },{ "/players/c/cuasjo01.shtml" : "Jose Cuas" },{ "/players/d/doziehu01.shtml" : "Hunter Dozier" },{ "/players/d/duffyma01.shtml" : "Matt Duffy" },{ "/players/e/eatonna01.shtml" : "Nate Eaton" },{ "/players/f/fermifr01.shtml" : "Freddy Fermin" },{ "/players/g/garcima01.shtml" : "Maikel Garcia" },{ "/players/g/garream01.shtml" : "Amir Garrett" },{ "/players/g/greinza01.shtml" : "Zack Greinke" },{ "/players/h/heasljo01.shtml" : "Jonathan Heasley" },{ "/players/h/hernaca04.shtml" : "Carlos Hernández" },{ "/players/i/isbelky01.shtml" : "Kyle Isbel" },{ "/players/k/kellebr01.shtml" : "Brad Keller" },{ "/players/k/kowarja01.shtml" : "Jackson Kowar" },{ "/players/l/lopezni01.shtml" : "Nicky Lopez" },{ "/players/l/lylesjo01.shtml" : "Jordan Lyles" },{ "/players/l/lynchda02.shtml" : "Daniel Lynch" },{ "/players/m/massemi02.shtml" : "Michael Massey" },{ "/players/m/melenmj01.shtml" : "MJ Melendez" },{ "/players/o/olivaed02.shtml" : "Edward Olivares" },{ "/players/p/pasquvi01.shtml" : "Vinnie Pasquantino" },{ "/players/p/perezsa02.shtml" : "Salvador Perez" },{ "/players/p/prattni01.shtml" : "Nick Pratto" },{ "/players/r/reyesfr01.shtml" : "Franmil Reyes" },{ "/players/s/singebr01.shtml" : "Brady Singer" },{ "/players/s/snideco01.shtml" : "Collin Snider" },{ "/players/s/staumjo01.shtml" : "Josh Staumont" },{ "/players/t/taylojo02.shtml" : "Josh Taylor" },{ "/players/w/waterdr01.shtml" : "Drew Waters" },{ "/players/w/wittbo02.shtml" : "Bobby Witt" },{ "/players/y/yarbrry01.shtml" : "Ryan Yarbrough" },{ "/players/z/zerpaan01.shtml" : "Angel Zerpa" }],
 'LAA': [{ '': 'Pick a Player' },{ "/players/a/adelljo01.shtml" : "Jo Adell" },{ "/players/a/anderty01.shtml" : "Tyler Anderson" },{ "/players/b/barrija01.shtml" : "Jaime Barria" },{ "/players/c/cannigr01.shtml" : "Griffin Canning" },{ "/players/d/davidtu01.shtml" : "Tucker Davidson" },{ "/players/d/detmere01.shtml" : "Reid Detmers" },{ "/players/d/drurybr01.shtml" : "Brandon Drury" },{ "/players/e/estevca01.shtml" : "Carlos Estévez" },{ "/players/g/garzaju01.shtml" : "Justin Garza" },{ "/players/h/hergeji01.shtml" : "Jimmy Herget" },{ "/players/l/lambja01.shtml" : "Jake Lamb" },{ "/players/l/loupaa01.shtml" : "Aaron Loup" },{ "/players/m/martejo01.shtml" : "José Marte" },{ "/players/m/moniami01.shtml" : "Mickey Moniak" },{ "/players/m/moorema02.shtml" : "Matt Moore" },{ "/players/n/netoza01.shtml" : "Zach Neto" },{ "/players/o/ohopplo01.shtml" : "Logan O'Hoppe" },{ "/players/o/ohtansh01.shtml" : "Shohei Ohtani" },{ "/players/p/phillbr02.shtml" : "Brett Phillips" },{ "/players/q/quijajo01.shtml" : "José Quijada" },{ "/players/r/rendoan01.shtml" : "Anthony Rendon" },{ "/players/r/renfrhu01.shtml" : "Hunter Renfroe" },{ "/players/r/rengilu01.shtml" : "Luis Rengifo" },{ "/players/r/rodrich01.shtml" : "Chris Rodriguez" },{ "/players/s/sandopa02.shtml" : "Patrick Sandoval" },{ "/players/s/silsech01.shtml" : "Chase Silseth" },{ "/players/s/sotoli01.shtml" : "Livan Soto" },{ "/players/s/stassma01.shtml" : "Max Stassi" },{ "/players/s/stefami01.shtml" : "Michael Stefanic" },{ "/players/s/suarejo01.shtml" : "José Suarez" },{ "/players/t/teperry01.shtml" : "Ryan Tepera" },{ "/players/t/thaisma01.shtml" : "Matt Thaiss" },{ "/players/t/troutmi01.shtml" : "Mike Trout" },{ "/players/u/urshegi01.shtml" : "Gio Urshela" },{ "/players/v/velazan01.shtml" : "Andrew Velazquez" },{ "/players/w/wallach01.shtml" : "Chad Wallach" },{ "/players/w/walshja01.shtml" : "Jared Walsh" },{ "/players/w/wantzan01.shtml" : "Andrew Wantz" },{ "/players/w/wardta01.shtml" : "Taylor Ward" },{ "/players/w/warreau01.shtml" : "Austin Warren" },{ "/players/w/weissza01.shtml" : "Zack Weiss" }],
-'LAD': [{ '': 'Pick a Player' },{ "/players/a/almonye01.shtml" : "Yency Almonte" },{ "/players/b/barneau01.shtml" : "Austin Barnes" },{ "/players/b/bettsmo01.shtml" : "Mookie Betts" },{ "/players/b/bickfph01.shtml" : "Phil Bickford" },{ "/players/b/bruihju01.shtml" : "Justin Bruihl" },{ "/players/b/buehlwa01.shtml" : "Walker Buehler" },{ "/players/f/ferguca01.shtml" : "Caleb Ferguson" },{ "/players/f/feyerjo01.shtml" : "J.P. Feyereisen" },{ "/players/f/freemfr01.shtml" : "Freddie Freeman" },{ "/players/g/gonsoto01.shtml" : "Tony Gonsolin" },{ "/players/g/gonzavi02.shtml" : "Victor González" },{ "/players/g/gratebr01.shtml" : "Brusdar Graterol" },{ "/players/g/grovemi01.shtml" : "Michael Grove" },{ "/players/h/hernayo02.shtml" : "Yonny Hernández" },{ "/players/h/heywaja01.shtml" : "Jason Heyward" },{ "/players/h/hudsoda01.shtml" : "Daniel Hudson" },{ "/players/j/jacksan01.shtml" : "Andre Jackson" },{ "/players/k/kershcl01.shtml" : "Clayton Kershaw" },{ "/players/l/luxga01.shtml" : "Gavin Lux" },{ "/players/m/martijd02.shtml" : "J.D. Martinez" },{ "/players/m/maydu01.shtml" : "Dustin May" },{ "/players/m/millesh01.shtml" : "Shelby Miller" },{ "/players/m/muncyma01.shtml" : "Max Muncy" },{ "/players/n/nelsoji02.shtml" : "Jimmy Nelson" },{ "/players/o/outmaja01.shtml" : "James Outman" },{ "/players/p/pepiory01.shtml" : "Ryan Pepiot" },{ "/players/p/peralda01.shtml" : "David Peralta" },{ "/players/p/phillev01.shtml" : "Evan Phillips" },{ "/players/r/reyesal02.shtml" : "Alex Reyes" },{ "/players/r/rojasmi02.shtml" : "Miguel Rojas" },{ "/players/s/smithwi05.shtml" : "Will Smith" },{ "/players/s/syndeno01.shtml" : "Noah Syndergaard" },{ "/players/t/tayloch03.shtml" : "Chris Taylor" },{ "/players/t/thomptr01.shtml" : "Trayce Thompson" },{ "/players/t/tolesan01.shtml" : "Andrew Toles" },{ "/players/t/treinbl01.shtml" : "Blake Treinen" },{ "/players/u/uriasju01.shtml" : "Julio Urías" },{ "/players/v/vargami01.shtml" : "Miguel Vargas" },{ "/players/v/vesiaal01.shtml" : "Alex Vesia" },{ "/players/w/willilu01.shtml" : "Luke Williams" },{ "/players/w/wynnsau01.shtml" : "Austin Wynns" }],
-'MIA': [{ '': 'Pick a Player' },{ "/players/a/alcansa01.shtml" : "Sandy Alcantara" },{ "/players/a/arraelu01.shtml" : "Luis Arraez" },{ "/players/b/barnema01.shtml" : "Matt Barnes" },{ "/players/b/bendean01.shtml" : "Anthony Bender" },{ "/players/b/bertijo01.shtml" : "Jon Berti" },{ "/players/b/brazohu01.shtml" : "Huascar Brazoban" },{ "/players/b/burdipe01.shtml" : "Peyton Burdick" },{ "/players/c/cabreed02.shtml" : "Edward Cabrera" },{ "/players/c/castada01.shtml" : "Daniel Castano" },{ "/players/c/chargjt01.shtml" : "JT Chargois" },{ "/players/c/chishja01.shtml" : "Jazz Chisholm Jr." },{ "/players/c/coopega03.shtml" : "Garrett Cooper" },{ "/players/c/cuetojo01.shtml" : "Johnny Cueto" },{ "/players/d/delacbr01.shtml" : "Bryan De La Cruz" },{ "/players/e/encarje01.shtml" : "Jerar Encarnación" },{ "/players/f/florody01.shtml" : "Dylan Floro" },{ "/players/f/forteni01.shtml" : "Nick Fortes" },{ "/players/g/garciav01.shtml" : "Avisaíl García" },{ "/players/g/garrebr01.shtml" : "Braxton Garrett" },{ "/players/g/groshjo01.shtml" : "Jordan Groshans" },{ "/players/g/gourryu01.shtml" : "Yuli Gurriel" },{ "/players/h/hampsga01.shtml" : "Garrett Hampson" },{ "/players/h/hoeinbr01.shtml" : "Bryan Hoeing" },{ "/players/l/lindgje01.shtml" : "Jeff Lindgren" },{ "/players/l/luzarje01.shtml" : "Jesús Luzardo" },{ "/players/m/meyerma01.shtml" : "Max Meyer" },{ "/players/n/nanceto01.shtml" : "Tommy Nance" },{ "/players/n/nardian01.shtml" : "Andrew Nardi" },{ "/players/n/nolinse01.shtml" : "Sean Nolin" },{ "/players/o/okertst01.shtml" : "Steven Okert" },{ "/players/p/pukaj01.shtml" : "A.J. Puk" },{ "/players/r/rogertr01.shtml" : "Trevor Rogers" },{ "/players/s/sanchje02.shtml" : "Jesús Sánchez" },{ "/players/s/sanchsi01.shtml" : "Sixto Sánchez" },{ "/players/s/scottta01.shtml" : "Tanner Scott" },{ "/players/s/segurje01.shtml" : "Jean Segura" },{ "/players/s/smeltde01.shtml" : "Devin Smeltzer" },{ "/players/s/solerjo01.shtml" : "Jorge Soler" },{ "/players/s/soriage01.shtml" : "George Soriano" },{ "/players/s/stallja01.shtml" : "Jacob Stallings" },{ "/players/w/wendljo01.shtml" : "Joey Wendle" }],
+'LAD': [{ '': 'Pick a Player' },{ "/players/a/almonye01.shtml" : "Yency Almonte" },{ "/players/b/barneau01.shtml" : "Austin Barnes" },{ "/players/b/bettsmo01.shtml" : "Mookie Betts" },{ "/players/b/bickfph01.shtml" : "Phil Bickford" },{ "/players/b/bruihju01.shtml" : "Justin Bruihl" },{ "/players/b/buehlwa01.shtml" : "Walker Buehler" },{ "/players/b/buschmi02.shtml" : "Michael Busch" },{ "/players/f/ferguca01.shtml" : "Caleb Ferguson" },{ "/players/f/feyerjo01.shtml" : "J.P. Feyereisen" },{ "/players/f/freemfr01.shtml" : "Freddie Freeman" },{ "/players/g/gonsoto01.shtml" : "Tony Gonsolin" },{ "/players/g/gonzavi02.shtml" : "Victor González" },{ "/players/g/gratebr01.shtml" : "Brusdar Graterol" },{ "/players/g/grovemi01.shtml" : "Michael Grove" },{ "/players/h/hernayo02.shtml" : "Yonny Hernández" },{ "/players/h/heywaja01.shtml" : "Jason Heyward" },{ "/players/h/hudsoda01.shtml" : "Daniel Hudson" },{ "/players/j/jacksan01.shtml" : "Andre Jackson" },{ "/players/k/kershcl01.shtml" : "Clayton Kershaw" },{ "/players/l/luxga01.shtml" : "Gavin Lux" },{ "/players/m/martijd02.shtml" : "J.D. Martinez" },{ "/players/m/maydu01.shtml" : "Dustin May" },{ "/players/m/millesh01.shtml" : "Shelby Miller" },{ "/players/m/muncyma01.shtml" : "Max Muncy" },{ "/players/n/nelsoji02.shtml" : "Jimmy Nelson" },{ "/players/o/outmaja01.shtml" : "James Outman" },{ "/players/p/pepiory01.shtml" : "Ryan Pepiot" },{ "/players/p/peralda01.shtml" : "David Peralta" },{ "/players/p/phillev01.shtml" : "Evan Phillips" },{ "/players/r/reyesal02.shtml" : "Alex Reyes" },{ "/players/r/rojasmi02.shtml" : "Miguel Rojas" },{ "/players/s/smithwi05.shtml" : "Will Smith" },{ "/players/s/syndeno01.shtml" : "Noah Syndergaard" },{ "/players/t/tayloch03.shtml" : "Chris Taylor" },{ "/players/t/thomptr01.shtml" : "Trayce Thompson" },{ "/players/t/tolesan01.shtml" : "Andrew Toles" },{ "/players/t/treinbl01.shtml" : "Blake Treinen" },{ "/players/u/uriasju01.shtml" : "Julio Urías" },{ "/players/v/vargami01.shtml" : "Miguel Vargas" },{ "/players/v/vesiaal01.shtml" : "Alex Vesia" },{ "/players/w/willilu01.shtml" : "Luke Williams" },{ "/players/w/wynnsau01.shtml" : "Austin Wynns" }],
+'MIA': [{ '': 'Pick a Player' },{ "/players/a/alcansa01.shtml" : "Sandy Alcantara" },{ "/players/a/arraelu01.shtml" : "Luis Arraez" },{ "/players/b/barnema01.shtml" : "Matt Barnes" },{ "/players/b/bendean01.shtml" : "Anthony Bender" },{ "/players/b/bertijo01.shtml" : "Jon Berti" },{ "/players/b/brazohu01.shtml" : "Huascar Brazoban" },{ "/players/b/burdipe01.shtml" : "Peyton Burdick" },{ "/players/c/cabreed02.shtml" : "Edward Cabrera" },{ "/players/c/castada01.shtml" : "Daniel Castano" },{ "/players/c/chargjt01.shtml" : "JT Chargois" },{ "/players/c/chishja01.shtml" : "Jazz Chisholm Jr." },{ "/players/c/coopega03.shtml" : "Garrett Cooper" },{ "/players/c/cuetojo01.shtml" : "Johnny Cueto" },{ "/players/d/delacbr01.shtml" : "Bryan De La Cruz" },{ "/players/e/encarje01.shtml" : "Jerar Encarnación" },{ "/players/f/florody01.shtml" : "Dylan Floro" },{ "/players/f/forteni01.shtml" : "Nick Fortes" },{ "/players/g/garciav01.shtml" : "Avisaíl García" },{ "/players/g/garrebr01.shtml" : "Braxton Garrett" },{ "/players/g/groshjo01.shtml" : "Jordan Groshans" },{ "/players/g/gourryu01.shtml" : "Yuli Gurriel" },{ "/players/h/hampsga01.shtml" : "Garrett Hampson" },{ "/players/h/hoeinbr01.shtml" : "Bryan Hoeing" },{ "/players/l/luzarje01.shtml" : "Jesús Luzardo" },{ "/players/m/meyerma01.shtml" : "Max Meyer" },{ "/players/n/nanceto01.shtml" : "Tommy Nance" },{ "/players/n/nardian01.shtml" : "Andrew Nardi" },{ "/players/n/nolinse01.shtml" : "Sean Nolin" },{ "/players/o/okertst01.shtml" : "Steven Okert" },{ "/players/p/pukaj01.shtml" : "A.J. Puk" },{ "/players/r/rogertr01.shtml" : "Trevor Rogers" },{ "/players/s/sanchje02.shtml" : "Jesús Sánchez" },{ "/players/s/sanchsi01.shtml" : "Sixto Sánchez" },{ "/players/s/scottta01.shtml" : "Tanner Scott" },{ "/players/s/segurje01.shtml" : "Jean Segura" },{ "/players/s/smeltde01.shtml" : "Devin Smeltzer" },{ "/players/s/solerjo01.shtml" : "Jorge Soler" },{ "/players/s/soriage01.shtml" : "George Soriano" },{ "/players/s/stallja01.shtml" : "Jacob Stallings" },{ "/players/w/wendljo01.shtml" : "Joey Wendle" }],
 'MIL': [{ '': 'Pick a Player' },{ "/players/a/adamewi01.shtml" : "Willy Adames" },{ "/players/a/alexaja01.shtml" : "Jason Alexander" },{ "/players/a/anderbr06.shtml" : "Brian Anderson" },{ "/players/a/ashbyaa01.shtml" : "Aaron Ashby" },{ "/players/b/brossmi01.shtml" : "Mike Brosseau" },{ "/players/b/bukaujb01.shtml" : "J.B. Bukauskas" },{ "/players/b/burneco01.shtml" : "Corbin Burnes" },{ "/players/b/bushma01.shtml" : "Matt Bush" },{ "/players/c/caratvi01.shtml" : "Victor Caratini" },{ "/players/c/claudal01.shtml" : "Alex Claudio" },{ "/players/c/contrwi02.shtml" : "William Contreras" },{ "/players/c/cousija01.shtml" : "Jake Cousins" },{ "/players/g/guerrja02.shtml" : "Javy Guerra" },{ "/players/h/housead01.shtml" : "Adrian Houser" },{ "/players/j/junkja01.shtml" : "Janson Junk" },{ "/players/l/lauerer01.shtml" : "Eric Lauer" },{ "/players/m/mileywa01.shtml" : "Wade Miley" },{ "/players/m/milleow01.shtml" : "Owen Miller" },{ "/players/m/millety01.shtml" : "Tyson Miller" },{ "/players/m/milneho01.shtml" : "Hoby Milner" },{ "/players/m/mitchga01.shtml" : "Garrett Mitchell" },{ "/players/p/payamjo01.shtml" : "Joel Payamps" },{ "/players/p/pegueel01.shtml" : "Elvis Peguero" },{ "/players/p/peralfr01.shtml" : "Freddy Peralta" },{ "/players/p/perkibl01.shtml" : "Blake Perkins" },{ "/players/r/reaco01.shtml" : "Colin Rea" },{ "/players/s/smallet01.shtml" : "Ethan Small" },{ "/players/s/sousabe01.shtml" : "Bennett Sousa" },{ "/players/s/strzepe01.shtml" : "Peter Strzelecki" },{ "/players/t/tayloty01.shtml" : "Tyrone Taylor" },{ "/players/t/tellero01.shtml" : "Rowdy Tellez" },{ "/players/t/toroab01.shtml" : "Abraham Toro" },{ "/players/t/turanbr02.shtml" : "Brice Turang" },{ "/players/u/uriaslu01.shtml" : "Luis Urías" },{ "/players/v/varlagu01.shtml" : "Gus Varland" },{ "/players/v/voitlu01.shtml" : "Luke Voit" },{ "/players/w/wiemejo01.shtml" : "Joey Wiemer" },{ "/players/w/willide03.shtml" : "Devin Williams" },{ "/players/w/wilsobr02.shtml" : "Bryse Wilson" },{ "/players/w/wilsoju10.shtml" : "Justin Wilson" },{ "/players/w/winkeje01.shtml" : "Jesse Winker" },{ "/players/w/woodrbr01.shtml" : "Brandon Woodruff" },{ "/players/y/yelicch01.shtml" : "Christian Yelich" }],
 'MIN': [{ '': 'Pick a Player' },{ "/players/a/alcaljo01.shtml" : "Jorge Alcala" },{ "/players/b/buxtoby01.shtml" : "Byron Buxton" },{ "/players/c/castrwi01.shtml" : "Willi Castro" },{ "/players/c/celesgi01.shtml" : "Gilberto Celestino" },{ "/players/c/correca01.shtml" : "Carlos Correa" },{ "/players/d/duranjh01.shtml" : "Jhoan Duran" },{ "/players/f/farmeky01.shtml" : "Kyle Farmer" },{ "/players/g/gallojo01.shtml" : "Joey Gallo" },{ "/players/g/garliky01.shtml" : "Kyle Garlick" },{ "/players/g/gordoni01.shtml" : "Nick Gordon" },{ "/players/g/grayso01.shtml" : "Sonny Gray" },{ "/players/h/headrbr01.shtml" : "Brent Headrick" },{ "/players/h/henriro01.shtml" : "Ronny Henriquez" },{ "/players/j/jaxgr01.shtml" : "Griffin Jax" },{ "/players/j/jeffery01.shtml" : "Ryan Jeffers" },{ "/players/j/julieed01.shtml" : "Edouard Julien" },{ "/players/k/keplema01.shtml" : "Max Kepler" },{ "/players/k/kirilal01.shtml" : "Alex Kirilloff" },{ "/players/l/larnatr01.shtml" : "Trevor Larnach" },{ "/players/l/lewisro02.shtml" : "Royce Lewis" },{ "/players/l/lopezjo02.shtml" : "Jorge López" },{ "/players/l/lopezpa01.shtml" : "Pablo López" },{ "/players/m/maedake01.shtml" : "Kenta Maeda" },{ "/players/m/mahlety01.shtml" : "Tyler Mahle" },{ "/players/m/megiltr01.shtml" : "Trevor Megill" },{ "/players/m/miranjo01.shtml" : "Jose Miranda" },{ "/players/m/moranjo01.shtml" : "Jovani Moran" },{ "/players/o/oberba01.shtml" : "Bailey Ober" },{ "/players/p/paddach01.shtml" : "Chris Paddack" },{ "/players/p/paganem01.shtml" : "Emilio Pagán" },{ "/players/p/polanjo01.shtml" : "Jorge Polanco" },{ "/players/r/ryanjo04.shtml" : "Joe Ryan" },{ "/players/s/sandsco01.shtml" : "Cole Sands" },{ "/players/s/solando01.shtml" : "Donovan Solano" },{ "/players/s/stewabr01.shtml" : "Brock Stewart" },{ "/players/t/taylomi02.shtml" : "Michael A. Taylor" },{ "/players/t/thielca01.shtml" : "Caleb Thielbar" },{ "/players/v/varlalo01.shtml" : "Louie Varland" },{ "/players/v/vazquch01.shtml" : "Christian Vázquez" },{ "/players/w/wallnma01.shtml" : "Matt Wallner" },{ "/players/w/windejo01.shtml" : "Josh Winder" },{ "/players/w/woodssi01.shtml" : "Simeon Woods Richardson" }],
 'NYM': [{ '': 'Pick a Player' },{ "/players/a/alonspe01.shtml" : "Pete Alonso" },{ "/players/a/alvarfr01.shtml" : "Francisco Álvarez" },{ "/players/b/batybr01.shtml" : "Brett Baty" },{ "/players/b/brighje01.shtml" : "Jeff Brigham" },{ "/players/b/buttojo01.shtml" : "José Butto" },{ "/players/c/canhama01.shtml" : "Mark Canha" },{ "/players/c/carraca01.shtml" : "Carlos Carrasco" },{ "/players/c/coonrsa01.shtml" : "Sam Coonrod" },{ "/players/c/curtijo02.shtml" : "John Curtiss" },{ "/players/d/diazed04.shtml" : "Edwin Díaz" },{ "/players/e/elledse01.shtml" : "Seth Elledge" },{ "/players/e/escobed01.shtml" : "Eduardo Escobar" },{ "/players/g/guilllu01.shtml" : "Luis Guillorme" },{ "/players/h/hernael01.shtml" : "Elieser Hernández" },{ "/players/h/hunteto02.shtml" : "Tommy Hunter" },{ "/players/l/lindofr01.shtml" : "Francisco Lindor" },{ "/players/l/locasti01.shtml" : "Tim Locastro" },{ "/players/l/lucchjo01.shtml" : "Joey Lucchesi" },{ "/players/m/martest01.shtml" : "Starling Marte" },{ "/players/m/mcneije01.shtml" : "Jeff McNeil" },{ "/players/m/megilty01.shtml" : "Tylor Megill" },{ "/players/m/mendida01.shtml" : "Danny Mendick" },{ "/players/m/montebr01.shtml" : "Bryce Montes de Oca" },{ "/players/n/narvaom01.shtml" : "Omar Narváez" },{ "/players/n/nidoto01.shtml" : "Tomás Nido" },{ "/players/n/nimmobr01.shtml" : "Brandon Nimmo" },{ "/players/n/nogosst01.shtml" : "Stephen Nogosek" },{ "/players/o/ottavad01.shtml" : "Adam Ottavino" },{ "/players/p/peterda01.shtml" : "David Peterson" },{ "/players/p/phamth01.shtml" : "Tommy Pham" },{ "/players/q/quintjo01.shtml" : "José Quintana" },{ "/players/r/raleybr01.shtml" : "Brooks Raley" },{ "/players/r/reyesde02.shtml" : "Denyi Reyes" },{ "/players/r/ridinst01.shtml" : "Stephen Ridings" },{ "/players/r/roberda08.shtml" : "David Robertson" },{ "/players/s/scherma01.shtml" : "Max Scherzer" },{ "/players/s/sengako01.shtml" : "Kodai Senga" },{ "/players/s/smithdr01.shtml" : "Drew Smith" },{ "/players/u/ucetaed01.shtml" : "Edwin Uceta" },{ "/players/v/verlaju01.shtml" : "Justin Verlander" },{ "/players/v/vientma01.shtml" : "Mark Vientos" },{ "/players/v/vogelda01.shtml" : "Daniel Vogelbach" },{ "/players/y/yacabji01.shtml" : "Jimmy Yacabonis" }],
 'NYY': [{ '': 'Pick a Player' },{ "/players/a/abreual01.shtml" : "Albert Abreu" },{ "/players/b/baderha01.shtml" : "Harrison Bader" },{ "/players/b/britojh01.shtml" : "Jhony Brito" },{ "/players/c/cabreos01.shtml" : "Oswaldo Cabrera" },{ "/players/c/calhowi01.shtml" : "Willie Calhoun" },{ "/players/c/colege01.shtml" : "Gerrit Cole" },{ "/players/c/cordefr02.shtml" : "Franchy Cordero" },{ "/players/c/cordeji01.shtml" : "Jimmy Cordero" },{ "/players/c/cortene01.shtml" : "Nestor Cortes" },{ "/players/d/donaljo02.shtml" : "Josh Donaldson" },{ "/players/e/effrosc01.shtml" : "Scott Effross" },{ "/players/g/garcide01.shtml" : "Deivi García" },{ "/players/g/germado01.shtml" : "Domingo Germán" },{ "/players/g/gillu01.shtml" : "Luis Gil" },{ "/players/h/hamilia01.shtml" : "Ian Hamilton" },{ "/players/h/hicksaa01.shtml" : "Aaron Hicks" },{ "/players/h/higasky01.shtml" : "Kyle Higashioka" },{ "/players/h/holmecl01.shtml" : "Clay Holmes" },{ "/players/j/judgeaa01.shtml" : "Aaron Judge" },{ "/players/k/kahnlto01.shtml" : "Tommy Kahnle" },{ "/players/k/kineris01.shtml" : "Isiah Kiner-Falefa" },{ "/players/k/kingmi01.shtml" : "Michael King" },{ "/players/l/lemahdj01.shtml" : "DJ LeMahieu" },{ "/players/l/loaisjo01.shtml" : "Jonathan Loáisiga" },{ "/players/m/marinro01.shtml" : "Ron Marinaccio" },{ "/players/m/montafr02.shtml" : "Frankie Montas" },{ "/players/p/peralwa01.shtml" : "Wandy Peralta" },{ "/players/p/perazos02.shtml" : "Oswald Peraza" },{ "/players/r/ramirni01.shtml" : "Nick Ramirez" },{ "/players/r/rizzoan01.shtml" : "Anthony Rizzo" },{ "/players/r/rodonca01.shtml" : "Carlos Rodón" },{ "/players/r/rortvbe01.shtml" : "Ben Rortvedt" },{ "/players/s/schmicl01.shtml" : "Clarke Schmidt" },{ "/players/s/severlu01.shtml" : "Luis Severino" },{ "/players/s/stantmi03.shtml" : "Giancarlo Stanton" },{ "/players/t/torregl01.shtml" : "Gleyber Torres" },{ "/players/t/trevijo01.shtml" : "Jose Trevino" },{ "/players/t/trivilo01.shtml" : "Lou Trivino" },{ "/players/v/volpean01.shtml" : "Anthony Volpe" },{ "/players/w/weissgr01.shtml" : "Gregory Weissert" }],
-'OAK': [{ '': 'Pick a Player' },{ "/players/a/acevedo01.shtml" : "Domingo Acevedo" },{ "/players/a/aguilje01.shtml" : "Jesús Aguilar" },{ "/players/a/allenni02.shtml" : "Nick Allen" },{ "/players/b/blackpa01.shtml" : "Paul Blackburn" },{ "/players/b/bledajj01.shtml" : "JJ Bleday" },{ "/players/b/bridejo01.shtml" : "Jonah Bride" },{ "/players/b/brownse01.shtml" : "Seth Brown" },{ "/players/c/capelco01.shtml" : "Conner Capel" },{ "/players/d/diazal02.shtml" : "Aledmys Díaz" },{ "/players/d/diazjo03.shtml" : "Jordan Diaz" },{ "/players/f/familje01.shtml" : "Jeurys Familia" },{ "/players/f/fujinsh01.shtml" : "Shintaro Fujinami" },{ "/players/g/garcide02.shtml" : "Dérmis Garcia" },{ "/players/h/harriho03.shtml" : "Hogan Harris" },{ "/players/j/jacksza02.shtml" : "Zach Jackson" },{ "/players/j/jimenda01.shtml" : "Dany Jiménez" },{ "/players/k/kaprija01.shtml" : "James Kaprielian" },{ "/players/k/kempto01.shtml" : "Tony Kemp" },{ "/players/l/langesh01.shtml" : "Shea Langeliers" },{ "/players/l/laurera01.shtml" : "Ramón Laureano" },{ "/players/l/longsa01.shtml" : "Sam Long" },{ "/players/l/lovelri01.shtml" : "Richard Lovelady" },{ "/players/m/martiad01.shtml" : "Adrián Martinez" },{ "/players/m/maytr01.shtml" : "Trevor May" },{ "/players/m/millema03.shtml" : "Mason Miller" },{ "/players/m/mollsa01.shtml" : "Sam Moll" },{ "/players/m/mulleky01.shtml" : "Kyle Muller" },{ "/players/n/nodary01.shtml" : "Ryan Noda" },{ "/players/o/ollerad01.shtml" : "Adam Oller" },{ "/players/p/perezca02.shtml" : "Carlos Pérez" },{ "/players/p/peterja01.shtml" : "Jace Peterson" },{ "/players/p/pinama01.shtml" : "Manny Piña" },{ "/players/r/rookebr01.shtml" : "Brent Rooker" },{ "/players/r/rucindr01.shtml" : "Drew Rucinski" },{ "/players/r/ruizes01.shtml" : "Esteury Ruiz" },{ "/players/s/searsjp01.shtml" : "JP Sears" },{ "/players/s/smithch12.shtml" : "Chad Smith" },{ "/players/s/smithke05.shtml" : "Kevin Smith" },{ "/players/s/sneadki01.shtml" : "Kirby Snead" },{ "/players/t/tarnofr01.shtml" : "Freddy Tarnok" },{ "/players/w/wadety01.shtml" : "Tyler Wade" },{ "/players/w/waldike01.shtml" : "Ken Waldichuk" }],
+'OAK': [{ '': 'Pick a Player' },{ "/players/a/acevedo01.shtml" : "Domingo Acevedo" },{ "/players/a/aguilje01.shtml" : "Jesús Aguilar" },{ "/players/a/allenni02.shtml" : "Nick Allen" },{ "/players/b/blackpa01.shtml" : "Paul Blackburn" },{ "/players/b/bledajj01.shtml" : "JJ Bleday" },{ "/players/b/bridejo01.shtml" : "Jonah Bride" },{ "/players/b/brownse01.shtml" : "Seth Brown" },{ "/players/c/capelco01.shtml" : "Conner Capel" },{ "/players/d/diazal02.shtml" : "Aledmys Díaz" },{ "/players/d/diazjo03.shtml" : "Jordan Diaz" },{ "/players/f/familje01.shtml" : "Jeurys Familia" },{ "/players/f/fujinsh01.shtml" : "Shintaro Fujinami" },{ "/players/h/harriho03.shtml" : "Hogan Harris" },{ "/players/j/jacksza02.shtml" : "Zach Jackson" },{ "/players/j/jimenda01.shtml" : "Dany Jiménez" },{ "/players/k/kaprija01.shtml" : "James Kaprielian" },{ "/players/k/kempto01.shtml" : "Tony Kemp" },{ "/players/l/langesh01.shtml" : "Shea Langeliers" },{ "/players/l/laurera01.shtml" : "Ramón Laureano" },{ "/players/l/longsa01.shtml" : "Sam Long" },{ "/players/l/lovelri01.shtml" : "Richard Lovelady" },{ "/players/m/martiad01.shtml" : "Adrián Martinez" },{ "/players/m/maytr01.shtml" : "Trevor May" },{ "/players/m/millema03.shtml" : "Mason Miller" },{ "/players/m/mollsa01.shtml" : "Sam Moll" },{ "/players/m/mulleky01.shtml" : "Kyle Muller" },{ "/players/n/nodary01.shtml" : "Ryan Noda" },{ "/players/o/ollerad01.shtml" : "Adam Oller" },{ "/players/p/perezca02.shtml" : "Carlos Pérez" },{ "/players/p/peterja01.shtml" : "Jace Peterson" },{ "/players/p/pinama01.shtml" : "Manny Piña" },{ "/players/r/rookebr01.shtml" : "Brent Rooker" },{ "/players/r/rucindr01.shtml" : "Drew Rucinski" },{ "/players/r/ruizes01.shtml" : "Esteury Ruiz" },{ "/players/s/searsjp01.shtml" : "JP Sears" },{ "/players/s/smithch12.shtml" : "Chad Smith" },{ "/players/s/smithke05.shtml" : "Kevin Smith" },{ "/players/s/sneadki01.shtml" : "Kirby Snead" },{ "/players/t/tarnofr01.shtml" : "Freddy Tarnok" },{ "/players/w/wadety01.shtml" : "Tyler Wade" },{ "/players/w/waldike01.shtml" : "Ken Waldichuk" }],
 'PHI': [{ '': 'Pick a Player' },{ "/players/a/alvarjo03.shtml" : "José Alvarado" },{ "/players/b/bellaan01.shtml" : "Andrew Bellatti" },{ "/players/b/bohmal01.shtml" : "Alec Bohm" },{ "/players/b/brogdco01.shtml" : "Connor Brogdon" },{ "/players/c/casteni01.shtml" : "Nick Castellanos" },{ "/players/c/caveja01.shtml" : "Jake Cave" },{ "/players/c/clemeko01.shtml" : "Kody Clemens" },{ "/players/d/dominse01.shtml" : "Seranthony Domínguez" },{ "/players/f/falteba01.shtml" : "Bailey Falter" },{ "/players/g/guthrda01.shtml" : "Dalton Guthrie" },{ "/players/h/hallda02.shtml" : "Darick Hall" },{ "/players/h/harpebr03.shtml" : "Bryce Harper" },{ "/players/h/harrijo05.shtml" : "Josh Harrison" },{ "/players/h/hoskirh01.shtml" : "Rhys Hoskins" },{ "/players/k/kimbrcr01.shtml" : "Craig Kimbrel" },{ "/players/m/marchra01.shtml" : "Rafael Marchán" },{ "/players/m/marshbr02.shtml" : "Brandon Marsh" },{ "/players/m/marteyu01.shtml" : "Yunior Marte" },{ "/players/m/mooremc01.shtml" : "McKinley Moore" },{ "/players/m/muzzisi01.shtml" : "Símon Muzziotti" },{ "/players/n/nelsoni01.shtml" : "Nick Nelson" },{ "/players/n/nolaaa01.shtml" : "Aaron Nola" },{ "/players/o/ortizlu02.shtml" : "Luis Ortiz" },{ "/players/p/pachecr01.shtml" : "Cristian Pache" },{ "/players/p/plassmi01.shtml" : "Michael Plassmeyer" },{ "/players/r/realmjt01.shtml" : "J.T. Realmuto" },{ "/players/s/sanchcr01.shtml" : "Cristopher Sánchez" },{ "/players/s/schwaky01.shtml" : "Kyle Schwarber" },{ "/players/s/sosaed01.shtml" : "Edmundo Sosa" },{ "/players/s/sotogr01.shtml" : "Gregory Soto" },{ "/players/s/stottbr01.shtml" : "Bryson Stott" },{ "/players/s/strahma01.shtml" : "Matt Strahm" },{ "/players/s/stubbga01.shtml" : "Garrett Stubbs" },{ "/players/s/suarera01.shtml" : "Ranger Suárez" },{ "/players/t/turnetr01.shtml" : "Trea Turner" },{ "/players/u/uelmeer01.shtml" : "Erich Uelmen" },{ "/players/v/vasquan02.shtml" : "Andrew Vasquez" },{ "/players/w/walketa01.shtml" : "Taijuan Walker" },{ "/players/w/wheelza01.shtml" : "Zack Wheeler" }],
 'PIT': [{ '': 'Pick a Player' },{ "/players/b/baeji01.shtml" : "Ji Hwan Bae" },{ "/players/b/bednada01.shtml" : "David Bednar" },{ "/players/b/brubajt01.shtml" : "JT Brubaker" },{ "/players/c/castrro01.shtml" : "Rodolfo Castro" },{ "/players/c/choiji01.shtml" : "Ji Man Choi" },{ "/players/c/contrro01.shtml" : "Roansy Contreras" },{ "/players/c/crowewi01.shtml" : "Wil Crowe" },{ "/players/c/cruzon01.shtml" : "Oneil Cruz" },{ "/players/d/dejonch01.shtml" : "Chase De Jong" },{ "/players/d/delosye01.shtml" : "Yerry De Los Santos" },{ "/players/d/delayja01.shtml" : "Jason Delay" },{ "/players/g/garcija04.shtml" : "Jarlín García" },{ "/players/h/hayeske01.shtml" : "Ke'Bryan Hayes" },{ "/players/h/hedgeau01.shtml" : "Austin Hedges" },{ "/players/h/heinety01.shtml" : "Tyler Heineman" },{ "/players/h/hernajo03.shtml" : "Jose Hernandez" },{ "/players/h/hillri01.shtml" : "Rich Hill" },{ "/players/h/holdeco01.shtml" : "Colin Holderman" },{ "/players/j/joeco01.shtml" : "Connor Joe" },{ "/players/k/kellemi03.shtml" : "Mitch Keller" },{ "/players/k/kranima01.shtml" : "Max Kranick" },{ "/players/m/marcatu01.shtml" : "Tucupita Marcano" },{ "/players/m/mathima01.shtml" : "Mark Mathias" },{ "/players/m/mccutan01.shtml" : "Andrew McCutchen" },{ "/players/m/mitchca01.shtml" : "Calvin Mitchell" },{ "/players/m/moretda01.shtml" : "Dauri Moreta" },{ "/players/o/ortizlu03.shtml" : "Luis Ortiz" },{ "/players/o/oviedjo01.shtml" : "Johan Oviedo" },{ "/players/p/pegueli01.shtml" : "Liover Peguero" },{ "/players/r/ramiryo01.shtml" : "Yohan Ramirez" },{ "/players/r/reynobr01.shtml" : "Bryan Reynolds" },{ "/players/s/santaca01.shtml" : "Carlos Santana" },{ "/players/s/smithca05.shtml" : "Canaan Smith-Njigba" },{ "/players/s/stephro01.shtml" : "Robert Stephenson" },{ "/players/s/suwinja01.shtml" : "Jack Suwinski" },{ "/players/s/swaggtr01.shtml" : "Travis Swaggerty" },{ "/players/u/underdu01.shtml" : "Duane Underwood Jr." },{ "/players/r/riverfe01.shtml" : "Felipe Vazquez" },{ "/players/v/velasvi01.shtml" : "Vince Velasquez" },{ "/players/z/zastrro01.shtml" : "Rob Zastryzny" }],
 'SDP': [{ '': 'Pick a Player' },{ "/players/a/avilape01.shtml" : "Pedro Avila" },{ "/players/a/azocajo01.shtml" : "José Azocar" },{ "/players/b/battema01.shtml" : "Matthew Batten" },{ "/players/b/bogaexa01.shtml" : "Xander Bogaerts" },{ "/players/c/campulu01.shtml" : "Luis Campusano" },{ "/players/c/carpema01.shtml" : "Matt Carpenter" },{ "/players/c/castijo03.shtml" : "José Castillo" },{ "/players/c/crismna01.shtml" : "Nabil Crismatt" },{ "/players/c/croneja01.shtml" : "Jake Cronenworth" },{ "/players/c/cruzne02.shtml" : "Nelson Cruz" },{ "/players/d/dahlda01.shtml" : "David Dahl" },{ "/players/d/darviyu01.shtml" : "Yu Darvish" },{ "/players/d/dixonbr01.shtml" : "Brandon Dixon" },{ "/players/e/engelad01.shtml" : "Adam Engel" },{ "/players/g/garcilu03.shtml" : "Luis García" },{ "/players/g/grishtr01.shtml" : "Trent Grisham" },{ "/players/h/haderjo01.shtml" : "Josh Hader" },{ "/players/h/hillti01.shtml" : "Tim Hill" },{ "/players/h/honeybr01.shtml" : "Brent Honeywell Jr." },{ "/players/k/kerrra01.shtml" : "Ray Kerr" },{ "/players/k/kimha01.shtml" : "Ha-Seong Kim" },{ "/players/k/knehrre01.shtml" : "Reiss Knehr" },{ "/players/l/lugose01.shtml" : "Seth Lugo" },{ "/players/m/machama01.shtml" : "Manny Machado" },{ "/players/m/martini01.shtml" : "Nick Martinez" },{ "/players/m/morejad01.shtml" : "Adrián Morejón" },{ "/players/m/musgrjo01.shtml" : "Joe Musgrove" },{ "/players/n/nolaau01.shtml" : "Austin Nola" },{ "/players/o/odorro01.shtml" : "Rougned Odor" },{ "/players/p/pomerdr01.shtml" : "Drew Pomeranz" },{ "/players/r/rosareg01.shtml" : "Eguy Rosario" },{ "/players/s/snellbl01.shtml" : "Blake Snell" },{ "/players/s/sotoju01.shtml" : "Juan Soto" },{ "/players/s/suarero01.shtml" : "Robert Suarez" },{ "/players/s/sullibr01.shtml" : "Brett Sullivan" },{ "/players/t/tapiado01.shtml" : "Domingo Tapia" },{ "/players/t/tatisfe02.shtml" : "Fernando Tatis Jr." },{ "/players/w/wachami01.shtml" : "Michael Wacha" },{ "/players/w/weathry01.shtml" : "Ryan Weathers" },{ "/players/w/wilsost02.shtml" : "Steven Wilson" }],
 'SEA': [{ '': 'Pick a Player' },{ "/players/b/brashma01.shtml" : "Matt Brash" },{ "/players/c/cabaljo01.shtml" : "Jose Caballero" },{ "/players/c/castidi01.shtml" : "Diego Castillo" },{ "/players/c/castilu02.shtml" : "Luis Castillo" },{ "/players/c/crawfjp01.shtml" : "J.P. Crawford" },{ "/players/f/festama01.shtml" : "Matt Festa" },{ "/players/f/flexech01.shtml" : "Chris Flexen" },{ "/players/f/francty01.shtml" : "Ty France" },{ "/players/g/gilbelo01.shtml" : "Logan Gilbert" },{ "/players/g/gonzama02.shtml" : "Marco Gonzales" },{ "/players/g/gotttr01.shtml" : "Trevor Gott" },{ "/players/h/haggesa01.shtml" : "Sam Haggerty" },{ "/players/h/hernate01.shtml" : "Teoscar Hernández" },{ "/players/h/hummeco01.shtml" : "Cooper Hummel" },{ "/players/k/kelenja01.shtml" : "Jarred Kelenic" },{ "/players/k/kirbyge01.shtml" : "George Kirby" },{ "/players/l/lasteto01.shtml" : "Tommy La Stella" },{ "/players/m/mccauda01.shtml" : "Darren McCaughan" },{ "/players/m/mcgeeea01.shtml" : "Easton McGee" },{ "/players/m/mooredy01.shtml" : "Dylan Moore" },{ "/players/m/munozan01.shtml" : "Andrés Muñoz" },{ "/players/m/murfepe01.shtml" : "Penn Murfee" },{ "/players/m/murphto04.shtml" : "Tom Murphy" },{ "/players/p/polloaj01.shtml" : "AJ Pollock" },{ "/players/r/raleica01.shtml" : "Cal Raleigh" },{ "/players/r/rayro02.shtml" : "Robbie Ray" },{ "/players/r/rodrijo07.shtml" : "José Rodríguez" },{ "/players/r/rodriju01.shtml" : "Julio Rodríguez" },{ "/players/s/sauceta01.shtml" : "Tayler Saucedo" },{ "/players/s/sewalpa01.shtml" : "Paul Sewald" },{ "/players/s/speiega01.shtml" : "Gabe Speier" },{ "/players/s/suareeu01.shtml" : "Eugenio Suárez" },{ "/players/t/topaju01.shtml" : "Justin Topa" },{ "/players/t/trammta01.shtml" : "Taylor Trammell" },{ "/players/w/whiteev01.shtml" : "Evan White" },{ "/players/w/wongko01.shtml" : "Kolten Wong" }],
 'SFG': [{ '': 'Pick a Player' },{ "/players/a/alexasc02.shtml" : "Scott Alexander" },{ "/players/b/bartjo01.shtml" : "Joey Bart" },{ "/players/b/beatyma01.shtml" : "Matt Beaty" },{ "/players/b/becktr01.shtml" : "Tristan Beck" },{ "/players/b/brebbjo01.shtml" : "John Brebbia" },{ "/players/c/cobbal01.shtml" : "Alex Cobb" },{ "/players/c/confomi01.shtml" : "Michael Conforto" },{ "/players/c/crawfbr01.shtml" : "Brandon Crawford" },{ "/players/d/davisjd01.shtml" : "J.D. Davis" },{ "/players/d/desclan01.shtml" : "Anthony DeSclafani" },{ "/players/d/diazis01.shtml" : "Isan Díaz" },{ "/players/d/dovalca01.shtml" : "Camilo Doval" },{ "/players/e/estrath01.shtml" : "Thairo Estrada" },{ "/players/f/florewi01.shtml" : "Wilmer Flores" },{ "/players/g/gonzalu03.shtml" : "Luis González" },{ "/players/h/hanigmi01.shtml" : "Mitch Haniger" },{ "/players/h/hjellse01.shtml" : "Sean Hjelle" },{ "/players/j/jackslu01.shtml" : "Luke Jackson" },{ "/players/j/johnsbr03.shtml" : "Bryce Johnson" },{ "/players/j/junisja01.shtml" : "Jakob Junis" },{ "/players/m/manaese01.shtml" : "Sean Manaea" },{ "/players/p/pederjo01.shtml" : "Joc Pederson" },{ "/players/p/perezro02.shtml" : "Roberto Pérez" },{ "/players/r/ramoshe02.shtml" : "Heliot Ramos" },{ "/players/r/rogerta01.shtml" : "Taylor Rogers" },{ "/players/r/rogerty01.shtml" : "Tyler Rogers" },{ "/players/r/rufda01.shtml" : "Darin Ruf" },{ "/players/s/sabolbl01.shtml" : "Blake Sabol" },{ "/players/s/slateau01.shtml" : "Austin Slater" },{ "/players/s/steveca01.shtml" : "Cal Stevenson" },{ "/players/s/stripro01.shtml" : "Ross Stripling" },{ "/players/s/szaputh01.shtml" : "Thomas Szapucki" },{ "/players/v/villada01.shtml" : "David Villar" },{ "/players/w/wadela01.shtml" : "LaMonte Wade Jr." },{ "/players/w/waiteco01.shtml" : "Cole Waites" },{ "/players/w/webblo01.shtml" : "Logan Webb" },{ "/players/w/wiselbr01.shtml" : "Brett Wisely" },{ "/players/w/woodal02.shtml" : "Alex Wood" },{ "/players/y/yastrmi01.shtml" : "Mike Yastrzemski" }],
-'STL': [{ '': 'Pick a Player' },{ "/players/a/arenano01.shtml" : "Nolan Arenado" },{ "/players/b/burleal01.shtml" : "Alec Burleson" },{ "/players/c/cabrege01.shtml" : "Génesis Cabrera" },{ "/players/c/carlsdy01.shtml" : "Dylan Carlson" },{ "/players/c/contrwi01.shtml" : "Willson Contreras" },{ "/players/d/dejonpa01.shtml" : "Paul DeJong" },{ "/players/d/donovbr01.shtml" : "Brendan Donovan" },{ "/players/e/edmanto01.shtml" : "Tommy Edman" },{ "/players/f/flaheja01.shtml" : "Jack Flaherty" },{ "/players/g/gallegi01.shtml" : "Giovanny Gallegos" },{ "/players/g/goldspa01.shtml" : "Paul Goldschmidt" },{ "/players/g/gormano01.shtml" : "Nolan Gorman" },{ "/players/h/helslry01.shtml" : "Ryan Helsley" },{ "/players/h/herreiv01.shtml" : "Iván Herrera" },{ "/players/h/hicksjo03.shtml" : "Jordan Hicks" },{ "/players/h/hudsoda02.shtml" : "Dakota Hudson" },{ "/players/k/kniznan01.shtml" : "Andrew Knizner" },{ "/players/l/liberma01.shtml" : "Matthew Liberatore" },{ "/players/m/matzst01.shtml" : "Steven Matz" },{ "/players/m/mikolmi01.shtml" : "Miles Mikolas" },{ "/players/m/montgjo01.shtml" : "Jordan Montgomery" },{ "/players/n/naughpa01.shtml" : "Packy Naughton" },{ "/players/n/nootbla01.shtml" : "Lars Nootbaar" },{ "/players/o/oneilty01.shtml" : "Tyler O'Neill" },{ "/players/p/pallaan01.shtml" : "Andre Pallante" },{ "/players/r/rodriwi02.shtml" : "Wilking Rodríguez" },{ "/players/r/romerjo01.shtml" : "JoJo Romero" },{ "/players/s/stratch01.shtml" : "Chris Stratton" },{ "/players/t/thompza02.shtml" : "Zack Thompson" },{ "/players/v/verhadr01.shtml" : "Drew VerHagen" },{ "/players/w/wainwad01.shtml" : "Adam Wainwright" },{ "/players/w/walkejo02.shtml" : "Jordan Walker" },{ "/players/w/walshja02.shtml" : "Jake Walsh" },{ "/players/w/woodfja01.shtml" : "Jake Woodford" },{ "/players/y/yepezju01.shtml" : "Juan Yepez" }],
-'TBR': [{ '': 'Pick a Player' },{ "/players/a/adamja01.shtml" : "Jason Adam" },{ "/players/a/arandjo01.shtml" : "Jonathan Aranda" },{ "/players/a/armstsh01.shtml" : "Shawn Armstrong" },{ "/players/a/arozara01.shtml" : "Randy Arozarena" },{ "/players/b/bazsh01.shtml" : "Shane Baz" },{ "/players/b/beeksja02.shtml" : "Jalen Beeks" },{ "/players/b/bethach01.shtml" : "Christian Bethancourt" },{ "/players/b/bradlta01.shtml" : "Taj Bradley" },{ "/players/b/bristbr01.shtml" : "Braden Bristo" },{ "/players/b/brujavi01.shtml" : "Vidal Bruján" },{ "/players/c/chiriyo01.shtml" : "Yonny Chirinos" },{ "/players/c/cleavga01.shtml" : "Garrett Cleavinger" },{ "/players/c/criswco01.shtml" : "Cooper Criswell" },{ "/players/d/diazya01.shtml" : "Yandy Díaz" },{ "/players/e/eflinza01.shtml" : "Zach Eflin" },{ "/players/f/fairbpe01.shtml" : "Pete Fairbanks" },{ "/players/f/fauchca01.shtml" : "Calvin Faucher" },{ "/players/f/flemijo01.shtml" : "Josh Fleming" },{ "/players/f/francwa01.shtml" : "Wander Franco" },{ "/players/g/glasnty01.shtml" : "Tyler Glasnow" },{ "/players/h/hembrhe01.shtml" : "Heath Hembree" },{ "/players/k/kelletr01.shtml" : "Trevor Kelley" },{ "/players/k/kellyke02.shtml" : "Kevin Kelly" },{ "/players/k/kittran01.shtml" : "Andrew Kittredge" },{ "/players/l/lowebr01.shtml" : "Brandon Lowe" },{ "/players/l/lowejo01.shtml" : "Josh Lowe" },{ "/players/m/margoma01.shtml" : "Manuel Margot" },{ "/players/m/mcclash01.shtml" : "Shane McClanahan" },{ "/players/m/mejiafr01.shtml" : "Francisco Mejía" },{ "/players/p/paredis01.shtml" : "Isaac Paredes" },{ "/players/p/patinlu01.shtml" : "Luis Patiño" },{ "/players/p/pintore02.shtml" : "René Pinto" },{ "/players/p/pocheco01.shtml" : "Colin Poche" },{ "/players/r/raleylu01.shtml" : "Luke Raley" },{ "/players/r/ramirha02.shtml" : "Harold Ramírez" },{ "/players/r/rasmudr01.shtml" : "Drew Rasmussen" },{ "/players/s/sirijo01.shtml" : "Jose Siri" },{ "/players/s/sprinje01.shtml" : "Jeffrey Springs" },{ "/players/t/thompry02.shtml" : "Ryan Thompson" },{ "/players/w/wallsta01.shtml" : "Taylor Walls" }],
+'STL': [{ '': 'Pick a Player' },{ "/players/a/arenano01.shtml" : "Nolan Arenado" },{ "/players/b/burleal01.shtml" : "Alec Burleson" },{ "/players/c/cabrege01.shtml" : "Génesis Cabrera" },{ "/players/c/carlsdy01.shtml" : "Dylan Carlson" },{ "/players/c/contrwi01.shtml" : "Willson Contreras" },{ "/players/d/dejonpa01.shtml" : "Paul DeJong" },{ "/players/d/donovbr01.shtml" : "Brendan Donovan" },{ "/players/e/edmanto01.shtml" : "Tommy Edman" },{ "/players/f/flaheja01.shtml" : "Jack Flaherty" },{ "/players/g/gallegi01.shtml" : "Giovanny Gallegos" },{ "/players/g/goldspa01.shtml" : "Paul Goldschmidt" },{ "/players/g/gormano01.shtml" : "Nolan Gorman" },{ "/players/h/helslry01.shtml" : "Ryan Helsley" },{ "/players/h/herreiv01.shtml" : "Iván Herrera" },{ "/players/h/hicksjo03.shtml" : "Jordan Hicks" },{ "/players/h/hudsoda02.shtml" : "Dakota Hudson" },{ "/players/k/kniznan01.shtml" : "Andrew Knizner" },{ "/players/l/liberma01.shtml" : "Matthew Liberatore" },{ "/players/m/matzst01.shtml" : "Steven Matz" },{ "/players/m/mikolmi01.shtml" : "Miles Mikolas" },{ "/players/m/montgjo01.shtml" : "Jordan Montgomery" },{ "/players/m/motteta01.shtml" : "Taylor Motter" },{ "/players/n/naughpa01.shtml" : "Packy Naughton" },{ "/players/n/nootbla01.shtml" : "Lars Nootbaar" },{ "/players/o/oneilty01.shtml" : "Tyler O'Neill" },{ "/players/p/pallaan01.shtml" : "Andre Pallante" },{ "/players/r/rodriwi02.shtml" : "Wilking Rodríguez" },{ "/players/r/romerjo01.shtml" : "JoJo Romero" },{ "/players/s/stratch01.shtml" : "Chris Stratton" },{ "/players/t/thompza02.shtml" : "Zack Thompson" },{ "/players/v/verhadr01.shtml" : "Drew VerHagen" },{ "/players/w/wainwad01.shtml" : "Adam Wainwright" },{ "/players/w/walkejo02.shtml" : "Jordan Walker" },{ "/players/w/walshja02.shtml" : "Jake Walsh" },{ "/players/w/woodfja01.shtml" : "Jake Woodford" },{ "/players/y/yepezju01.shtml" : "Juan Yepez" }],
+'TBR': [{ '': 'Pick a Player' },{ "/players/a/adamja01.shtml" : "Jason Adam" },{ "/players/a/arandjo01.shtml" : "Jonathan Aranda" },{ "/players/a/armstsh01.shtml" : "Shawn Armstrong" },{ "/players/a/arozara01.shtml" : "Randy Arozarena" },{ "/players/b/bazsh01.shtml" : "Shane Baz" },{ "/players/b/beeksja02.shtml" : "Jalen Beeks" },{ "/players/b/bethach01.shtml" : "Christian Bethancourt" },{ "/players/b/bradlta01.shtml" : "Taj Bradley" },{ "/players/b/bristbr01.shtml" : "Braden Bristo" },{ "/players/b/brujavi01.shtml" : "Vidal Bruján" },{ "/players/b/burdiza01.shtml" : "Zack Burdi" },{ "/players/c/chiriyo01.shtml" : "Yonny Chirinos" },{ "/players/c/cleavga01.shtml" : "Garrett Cleavinger" },{ "/players/c/criswco01.shtml" : "Cooper Criswell" },{ "/players/d/diazya01.shtml" : "Yandy Díaz" },{ "/players/e/eflinza01.shtml" : "Zach Eflin" },{ "/players/f/fairbpe01.shtml" : "Pete Fairbanks" },{ "/players/f/fauchca01.shtml" : "Calvin Faucher" },{ "/players/f/flemijo01.shtml" : "Josh Fleming" },{ "/players/f/francwa01.shtml" : "Wander Franco" },{ "/players/g/glasnty01.shtml" : "Tyler Glasnow" },{ "/players/h/hembrhe01.shtml" : "Heath Hembree" },{ "/players/k/kelletr01.shtml" : "Trevor Kelley" },{ "/players/k/kellyke02.shtml" : "Kevin Kelly" },{ "/players/k/kittran01.shtml" : "Andrew Kittredge" },{ "/players/l/lowebr01.shtml" : "Brandon Lowe" },{ "/players/l/lowejo01.shtml" : "Josh Lowe" },{ "/players/m/margoma01.shtml" : "Manuel Margot" },{ "/players/m/mcclash01.shtml" : "Shane McClanahan" },{ "/players/m/mejiafr01.shtml" : "Francisco Mejía" },{ "/players/p/paredis01.shtml" : "Isaac Paredes" },{ "/players/p/patinlu01.shtml" : "Luis Patiño" },{ "/players/p/pintore02.shtml" : "René Pinto" },{ "/players/p/pocheco01.shtml" : "Colin Poche" },{ "/players/r/raleylu01.shtml" : "Luke Raley" },{ "/players/r/ramirha02.shtml" : "Harold Ramírez" },{ "/players/r/rasmudr01.shtml" : "Drew Rasmussen" },{ "/players/s/sirijo01.shtml" : "Jose Siri" },{ "/players/s/sprinje01.shtml" : "Jeffrey Springs" },{ "/players/t/thompry02.shtml" : "Ryan Thompson" },{ "/players/w/wallsta01.shtml" : "Taylor Walls" }],
 'TEX': [{ '': 'Pick a Player' },{ "/players/b/barlojo01.shtml" : "Joe Barlow" },{ "/players/b/burkebr01.shtml" : "Brock Burke" },{ "/players/d/degroja01.shtml" : "Jacob deGrom" },{ "/players/d/dunnida01.shtml" : "Dane Dunning" },{ "/players/d/duranez01.shtml" : "Ezequiel Duran" },{ "/players/e/eovalna01.shtml" : "Nathan Eovaldi" },{ "/players/g/garciad02.shtml" : "Adolis García" },{ "/players/g/garvemi01.shtml" : "Mitch Garver" },{ "/players/g/grayjo02.shtml" : "Jon Gray" },{ "/players/g/grossro01.shtml" : "Robbie Grossman" },{ "/players/h/heanean01.shtml" : "Andrew Heaney" },{ "/players/h/hearnta01.shtml" : "Taylor Hearn" },{ "/players/h/heimjo01.shtml" : "Jonah Heim" },{ "/players/h/hernajo02.shtml" : "Jonathan Hernández" },{ "/players/h/howarsp01.shtml" : "Spencer Howard" },{ "/players/h/huffsa01.shtml" : "Sam Huff" },{ "/players/j/jankotr01.shtml" : "Travis Jankowski" },{ "/players/j/jungjo01.shtml" : "Josh Jung" },{ "/players/k/kenneia01.shtml" : "Ian Kennedy" },{ "/players/k/kingjo01.shtml" : "John King" },{ "/players/l/leclejo01.shtml" : "José Leclerc" },{ "/players/l/leonsa01.shtml" : "Sandy León" },{ "/players/l/lowena01.shtml" : "Nathaniel Lowe" },{ "/players/m/martibr01.shtml" : "Brett Martin" },{ "/players/m/millebr02.shtml" : "Brad Miller" },{ "/players/o/odorija01.shtml" : "Jake Odorizzi" },{ "/players/o/ottogl01.shtml" : "Glenn Otto" },{ "/players/p/perezma02.shtml" : "Martín Pérez" },{ "/players/r/raganco01.shtml" : "Cole Ragans" },{ "/players/r/rodriye01.shtml" : "Yerry Rodríguez" },{ "/players/s/sborzjo01.shtml" : "Josh Sborz" },{ "/players/s/seageco01.shtml" : "Corey Seager" },{ "/players/s/semiema01.shtml" : "Marcus Semien" },{ "/players/s/smithjo11.shtml" : "Josh H. Smith" },{ "/players/s/smithwi04.shtml" : "Will Smith" },{ "/players/t/taverle01.shtml" : "Leody Taveras" },{ "/players/t/thompbu01.shtml" : "Bubba Thompson" }],
 'TOR': [{ '': 'Pick a Player' },{ "/players/b/bassan01.shtml" : "Anthony Bass" },{ "/players/b/bassich01.shtml" : "Chris Bassitt" },{ "/players/b/beltbr01.shtml" : "Brandon Belt" },{ "/players/b/berrijo01.shtml" : "José Berríos" },{ "/players/b/bichebo01.shtml" : "Bo Bichette" },{ "/players/b/biggica01.shtml" : "Cavan Biggio" },{ "/players/c/chapmma01.shtml" : "Matt Chapman" },{ "/players/c/cimbead01.shtml" : "Adam Cimber" },{ "/players/e/espinsa01.shtml" : "Santiago Espinal" },{ "/players/g/garciyi01.shtml" : "Yimi García" },{ "/players/g/gausmke01.shtml" : "Kevin Gausman" },{ "/players/g/greench03.shtml" : "Chad Green" },{ "/players/g/guerrvl02.shtml" : "Vladimir Guerrero Jr." },{ "/players/h/hatchto01.shtml" : "Thomas Hatch" },{ "/players/j/jacksja01.shtml" : "Jay Jackson" },{ "/players/j/janseda01.shtml" : "Danny Jansen" },{ "/players/k/kiermke01.shtml" : "Kevin Kiermaier" },{ "/players/k/kikucyu01.shtml" : "Yusei Kikuchi" },{ "/players/k/kirkal01.shtml" : "Alejandro Kirk" },{ "/players/l/lopezot01.shtml" : "Otto Lopez" },{ "/players/l/lukesna01.shtml" : "Nathan Lukes" },{ "/players/l/luplojo01.shtml" : "Jordan Luplow" },{ "/players/m/manoaal01.shtml" : "Alek Manoah" },{ "/players/m/mayzati01.shtml" : "Tim Mayza" },{ "/players/m/merriwh01.shtml" : "Whit Merrifield" },{ "/players/p/pearsna01.shtml" : "Nate Pearson" },{ "/players/p/popza01.shtml" : "Zach Pop" },{ "/players/r/richatr01.shtml" : "Trevor Richards" },{ "/players/r/romanjo03.shtml" : "Jordan Romano" },{ "/players/r/ryuhy01.shtml" : "Hyun Jin Ryu" },{ "/players/s/springe01.shtml" : "George Springer" },{ "/players/s/swanser01.shtml" : "Erik Swanson" },{ "/players/t/thompza01.shtml" : "Zach Thompson" },{ "/players/t/thorntr01.shtml" : "Trent Thornton" },{ "/players/v/varshda01.shtml" : "Daulton Varsho" },{ "/players/w/whitemi03.shtml" : "Mitch White" }],
 'WSN': [{ '': 'Pick a Player' },{ "/players/a/abbotco01.shtml" : "Cory Abbott" },{ "/players/a/abramcj01.shtml" : "CJ Abrams" },{ "/players/a/adamsri03.shtml" : "Riley Adams" },{ "/players/a/adonjo01.shtml" : "Joan Adon" },{ "/players/a/aranovi01.shtml" : "Víctor Arano" },{ "/players/b/bandaan01.shtml" : "Anthony Banda" },{ "/players/c/callal02.shtml" : "Alex Call" },{ "/players/c/candeje01.shtml" : "Jeimer Candelario" },{ "/players/c/cavalca01.shtml" : "Cade Cavalli" },{ "/players/c/chavimi01.shtml" : "Michael Chavis" },{ "/players/c/corbipa01.shtml" : "Patrick Corbin" },{ "/players/d/dickeco01.shtml" : "Corey Dickerson" },{ "/players/d/downsje01.shtml" : "Jeter Downs" },{ "/players/e/edwarca01.shtml" : "Carl Edwards Jr." },{ "/players/e/espinpa01.shtml" : "Paolo Espino" },{ "/players/f/finneky01.shtml" : "Kyle Finnegan" },{ "/players/g/garcilu04.shtml" : "Luis García" },{ "/players/g/garrest01.shtml" : "Stone Garrett" },{ "/players/g/gorema01.shtml" : "MacKenzie Gore" },{ "/players/g/grayjo03.shtml" : "Josiah Gray" },{ "/players/h/harriho02.shtml" : "Hobie Harris" },{ "/players/h/harvehu01.shtml" : "Hunter Harvey" },{ "/players/k/kieboca01.shtml" : "Carter Kieboom" },{ "/players/k/kuhlch01.shtml" : "Chad Kuhl" },{ "/players/m/menesjo01.shtml" : "Joey Meneses" },{ "/players/p/pinedis01.shtml" : "Israel Pineda" },{ "/players/r/raineta01.shtml" : "Tanner Rainey" },{ "/players/r/ramirer02.shtml" : "Erasmo Ramírez" },{ "/players/r/roblevi01.shtml" : "Victor Robles" },{ "/players/r/ruizke01.shtml" : "Keibert Ruiz" },{ "/players/s/smithdo02.shtml" : "Dominic Smith" },{ "/players/s/strasst01.shtml" : "Stephen Strasburg" },{ "/players/t/thomala02.shtml" : "Lane Thomas" },{ "/players/t/thompma02.shtml" : "Mason Thompson" },{ "/players/v/vargail01.shtml" : "Ildemaro Vargas" },{ "/players/w/wardth01.shtml" : "Thaddeus Ward" },{ "/players/w/weemsjo01.shtml" : "Jordan Weems" },{ "/players/w/willitr01.shtml" : "Trevor Williams" }]};
@@ -1392,31 +1392,31 @@ sr_goto_json["player_json"] = {
       <tr class="thead">
          <th aria-label="East" data-stat="East" colspan="6" class=" left center" >East</th>
       </tr>
-      <tr ><th scope="row" class="left " data-stat="team_ID" csk="TBR" ><a href="/teams/TBR/2023.shtml" title="Tampa Bay Rays">TBR</a></th><td class="right " data-stat="W" >20</td><td class="right " data-stat="L" >4</td><td class="right " data-stat="games_back" csk="-2000" >--</td><td class="right " data-stat="simple_rating_system" >3.3</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="BAL" ><a href="/teams/BAL/2023.shtml" title="Baltimore Orioles">BAL</a></th><td class="right " data-stat="W" >15</td><td class="right " data-stat="L" >8</td><td class="right " data-stat="games_back" csk="-15" >4.5</td><td class="right " data-stat="simple_rating_system" >0.4</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="TOR" ><a href="/teams/TOR/2023.shtml" title="Toronto Blue Jays">TOR</a></th><td class="right " data-stat="W" >15</td><td class="right " data-stat="L" >9</td><td class="right " data-stat="games_back" csk="-15" >5.0</td><td class="right " data-stat="simple_rating_system" >0.4</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="NYY" ><a href="/teams/NYY/2023.shtml" title="New York Yankees">NYY</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-13" >7.0</td><td class="right " data-stat="simple_rating_system" >0.3</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="BOS" ><a href="/teams/BOS/2023.shtml" title="Boston Red Sox">BOS</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-13" >7.5</td><td class="right " data-stat="simple_rating_system" >1.3</td></tr>
+      <tr ><th scope="row" class="left " data-stat="team_ID" csk="TBR" ><a href="/teams/TBR/2023.shtml" title="Tampa Bay Rays">TBR</a></th><td class="right " data-stat="W" >20</td><td class="right " data-stat="L" >5</td><td class="right " data-stat="games_back" csk="-2000" >--</td><td class="right " data-stat="simple_rating_system" >3.2</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="BAL" ><a href="/teams/BAL/2023.shtml" title="Baltimore Orioles">BAL</a></th><td class="right " data-stat="W" >16</td><td class="right " data-stat="L" >8</td><td class="right " data-stat="games_back" csk="-16" >3.5</td><td class="right " data-stat="simple_rating_system" >0.5</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="TOR" ><a href="/teams/TOR/2023.shtml" title="Toronto Blue Jays">TOR</a></th><td class="right " data-stat="W" >16</td><td class="right " data-stat="L" >9</td><td class="right " data-stat="games_back" csk="-16" >4.0</td><td class="right " data-stat="simple_rating_system" >0.7</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="NYY" ><a href="/teams/NYY/2023.shtml" title="New York Yankees">NYY</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-14" >6.0</td><td class="right " data-stat="simple_rating_system" >0.6</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="BOS" ><a href="/teams/BOS/2023.shtml" title="Boston Red Sox">BOS</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-13" >7.5</td><td class="right " data-stat="simple_rating_system" >1.1</td></tr>
 
       
       <tr class="thead">
          <th aria-label="Central" data-stat="Central" colspan="6" class=" left center" >Central</th>
       </tr>
-      <tr ><th scope="row" class="left " data-stat="team_ID" csk="MIN" ><a href="/teams/MIN/2023.shtml" title="Minnesota Twins">MIN</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >10</td><td class="right " data-stat="games_back" csk="-1400" >--</td><td class="right " data-stat="simple_rating_system" >0.7</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="CLE" ><a href="/teams/CLE/2023.shtml" title="Cleveland Guardians">CLE</a></th><td class="right " data-stat="W" >11</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-11" >3.0</td><td class="right " data-stat="simple_rating_system" >-1.8</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="DET" ><a href="/teams/DET/2023.shtml" title="Detroit Tigers">DET</a></th><td class="right " data-stat="W" >9</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-9" >4.0</td><td class="right " data-stat="simple_rating_system" >-1.0</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="CHW" ><a href="/teams/CHW/2023.shtml" title="Chicago White Sox">CHW</a></th><td class="right " data-stat="W" >7</td><td class="right " data-stat="L" >17</td><td class="right " data-stat="games_back" csk="-7" >7.0</td><td class="right " data-stat="simple_rating_system" >-0.9</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="KCR" ><a href="/teams/KCR/2023.shtml" title="Kansas City Royals">KCR</a></th><td class="right " data-stat="W" >6</td><td class="right " data-stat="L" >18</td><td class="right " data-stat="games_back" csk="-6" >8.0</td><td class="right " data-stat="simple_rating_system" >-1.5</td></tr>
+      <tr ><th scope="row" class="left " data-stat="team_ID" csk="MIN" ><a href="/teams/MIN/2023.shtml" title="Minnesota Twins">MIN</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-1400" >--</td><td class="right " data-stat="simple_rating_system" >0.5</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="CLE" ><a href="/teams/CLE/2023.shtml" title="Cleveland Guardians">CLE</a></th><td class="right " data-stat="W" >12</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-12" >2.0</td><td class="right " data-stat="simple_rating_system" >-1.7</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="DET" ><a href="/teams/DET/2023.shtml" title="Detroit Tigers">DET</a></th><td class="right " data-stat="W" >9</td><td class="right " data-stat="L" >14</td><td class="right " data-stat="games_back" csk="-9" >4.0</td><td class="right " data-stat="simple_rating_system" >-1.0</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="CHW" ><a href="/teams/CHW/2023.shtml" title="Chicago White Sox">CHW</a></th><td class="right " data-stat="W" >7</td><td class="right " data-stat="L" >18</td><td class="right " data-stat="games_back" csk="-7" >7.0</td><td class="right " data-stat="simple_rating_system" >-1.1</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="KCR" ><a href="/teams/KCR/2023.shtml" title="Kansas City Royals">KCR</a></th><td class="right " data-stat="W" >6</td><td class="right " data-stat="L" >19</td><td class="right " data-stat="games_back" csk="-6" >8.0</td><td class="right " data-stat="simple_rating_system" >-1.5</td></tr>
 
       
       <tr class="thead">
          <th aria-label="West" data-stat="West" colspan="6" class=" left center" >West</th>
       </tr>
-      <tr ><th scope="row" class="left " data-stat="team_ID" csk="TEX" ><a href="/teams/TEX/2023.shtml" title="Texas Rangers">TEX</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >9</td><td class="right " data-stat="games_back" csk="-1400" >--</td><td class="right " data-stat="simple_rating_system" >2.2</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="HOU" ><a href="/teams/HOU/2023.shtml" title="Houston Astros">HOU</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-13" >1.5</td><td class="right " data-stat="simple_rating_system" >1.8</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="LAA" ><a href="/teams/LAA/2023.shtml" title="Los Angeles Angels">LAA</a></th><td class="right " data-stat="W" >12</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-12" >2.5</td><td class="right " data-stat="simple_rating_system" >-0.4</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="SEA" ><a href="/teams/SEA/2023.shtml" title="Seattle Mariners">SEA</a></th><td class="right " data-stat="W" >11</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-11" >3.0</td><td class="right " data-stat="simple_rating_system" >-0.4</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="OAK" ><a href="/teams/OAK/2023.shtml" title="Oakland Athletics">OAK</a></th><td class="right " data-stat="W" >5</td><td class="right " data-stat="L" >19</td><td class="right " data-stat="games_back" csk="-5" >9.5</td><td class="right " data-stat="simple_rating_system" >-3.7</td></tr>
+      <tr ><th scope="row" class="left " data-stat="team_ID" csk="TEX" ><a href="/teams/TEX/2023.shtml" title="Texas Rangers">TEX</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >10</td><td class="right " data-stat="games_back" csk="-1400" >--</td><td class="right " data-stat="simple_rating_system" >2.0</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="HOU" ><a href="/teams/HOU/2023.shtml" title="Houston Astros">HOU</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-14" >0.5</td><td class="right " data-stat="simple_rating_system" >1.9</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="LAA" ><a href="/teams/LAA/2023.shtml" title="Los Angeles Angels">LAA</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-13" >1.5</td><td class="right " data-stat="simple_rating_system" >-0.2</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="SEA" ><a href="/teams/SEA/2023.shtml" title="Seattle Mariners">SEA</a></th><td class="right " data-stat="W" >11</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-11" >3.0</td><td class="right " data-stat="simple_rating_system" >-0.4</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="OAK" ><a href="/teams/OAK/2023.shtml" title="Oakland Athletics">OAK</a></th><td class="right " data-stat="W" >5</td><td class="right " data-stat="L" >20</td><td class="right " data-stat="games_back" csk="-5" >9.5</td><td class="right " data-stat="simple_rating_system" >-3.8</td></tr>
 
 </table>
 
@@ -1457,31 +1457,31 @@ sr_goto_json["player_json"] = {
       <tr class="thead">
          <th aria-label="East" data-stat="East" colspan="6" class=" left center" >East</th>
       </tr>
-      <tr ><th scope="row" class="left " data-stat="team_ID" csk="ATL" ><a href="/teams/ATL/2023.shtml" title="Atlanta Braves">ATL</a></th><td class="right " data-stat="W" >16</td><td class="right " data-stat="L" >8</td><td class="right " data-stat="games_back" csk="-1600" >--</td><td class="right " data-stat="simple_rating_system" >1.2</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="NYM" ><a href="/teams/NYM/2023.shtml" title="New York Mets">NYM</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >10</td><td class="right " data-stat="games_back" csk="-14" >2.0</td><td class="right " data-stat="simple_rating_system" >-0.4</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="MIA" ><a href="/teams/MIA/2023.shtml" title="Miami Marlins">MIA</a></th><td class="right " data-stat="W" >12</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-12" >4.0</td><td class="right " data-stat="simple_rating_system" >-1.9</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="PHI" ><a href="/teams/PHI/2023.shtml" title="Philadelphia Phillies">PHI</a></th><td class="right " data-stat="W" >11</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-11" >5.0</td><td class="right " data-stat="simple_rating_system" >-0.9</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="WSN" ><a href="/teams/WSN/2023.shtml" title="Washington Nationals">WSN</a></th><td class="right " data-stat="W" >8</td><td class="right " data-stat="L" >14</td><td class="right " data-stat="games_back" csk="-8" >7.0</td><td class="right " data-stat="simple_rating_system" >-0.6</td></tr>
+      <tr ><th scope="row" class="left " data-stat="team_ID" csk="ATL" ><a href="/teams/ATL/2023.shtml" title="Atlanta Braves">ATL</a></th><td class="right " data-stat="W" >17</td><td class="right " data-stat="L" >8</td><td class="right " data-stat="games_back" csk="-1700" >--</td><td class="right " data-stat="simple_rating_system" >1.3</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="NYM" ><a href="/teams/NYM/2023.shtml" title="New York Mets">NYM</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-14" >3.0</td><td class="right " data-stat="simple_rating_system" >-0.6</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="MIA" ><a href="/teams/MIA/2023.shtml" title="Miami Marlins">MIA</a></th><td class="right " data-stat="W" >12</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-12" >5.0</td><td class="right " data-stat="simple_rating_system" >-1.9</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="PHI" ><a href="/teams/PHI/2023.shtml" title="Philadelphia Phillies">PHI</a></th><td class="right " data-stat="W" >12</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-12" >5.0</td><td class="right " data-stat="simple_rating_system" >-0.8</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="WSN" ><a href="/teams/WSN/2023.shtml" title="Washington Nationals">WSN</a></th><td class="right " data-stat="W" >9</td><td class="right " data-stat="L" >14</td><td class="right " data-stat="games_back" csk="-9" >7.0</td><td class="right " data-stat="simple_rating_system" >-0.5</td></tr>
 
       
       <tr class="thead">
          <th aria-label="Central" data-stat="Central" colspan="6" class=" left center" >Central</th>
       </tr>
-      <tr ><th scope="row" class="left " data-stat="team_ID" csk="PIT" ><a href="/teams/PIT/2023.shtml" title="Pittsburgh Pirates">PIT</a></th><td class="right " data-stat="W" >16</td><td class="right " data-stat="L" >8</td><td class="right " data-stat="games_back" csk="-1600" >--</td><td class="right " data-stat="simple_rating_system" >1.1</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="MIL" ><a href="/teams/MIL/2023.shtml" title="Milwaukee Brewers">MIL</a></th><td class="right " data-stat="W" >15</td><td class="right " data-stat="L" >9</td><td class="right " data-stat="games_back" csk="-15" >1.0</td><td class="right " data-stat="simple_rating_system" >1.1</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="CHC" ><a href="/teams/CHC/2023.shtml" title="Chicago Cubs">CHC</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >9</td><td class="right " data-stat="games_back" csk="-13" >2.0</td><td class="right " data-stat="simple_rating_system" >2.3</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="CIN" ><a href="/teams/CIN/2023.shtml" title="Cincinnati Reds">CIN</a></th><td class="right " data-stat="W" >9</td><td class="right " data-stat="L" >15</td><td class="right " data-stat="games_back" csk="-9" >7.0</td><td class="right " data-stat="simple_rating_system" >0.2</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="STL" ><a href="/teams/STL/2023.shtml" title="St. Louis Cardinals">STL</a></th><td class="right " data-stat="W" >9</td><td class="right " data-stat="L" >15</td><td class="right " data-stat="games_back" csk="-9" >7.0</td><td class="right " data-stat="simple_rating_system" >-0.2</td></tr>
+      <tr ><th scope="row" class="left " data-stat="team_ID" csk="PIT" ><a href="/teams/PIT/2023.shtml" title="Pittsburgh Pirates">PIT</a></th><td class="right " data-stat="W" >17</td><td class="right " data-stat="L" >8</td><td class="right " data-stat="games_back" csk="-1700" >--</td><td class="right " data-stat="simple_rating_system" >1.3</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="MIL" ><a href="/teams/MIL/2023.shtml" title="Milwaukee Brewers">MIL</a></th><td class="right " data-stat="W" >16</td><td class="right " data-stat="L" >9</td><td class="right " data-stat="games_back" csk="-16" >1.0</td><td class="right " data-stat="simple_rating_system" >1.1</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="CHC" ><a href="/teams/CHC/2023.shtml" title="Chicago Cubs">CHC</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >10</td><td class="right " data-stat="games_back" csk="-13" >3.0</td><td class="right " data-stat="simple_rating_system" >1.9</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="CIN" ><a href="/teams/CIN/2023.shtml" title="Cincinnati Reds">CIN</a></th><td class="right " data-stat="W" >10</td><td class="right " data-stat="L" >15</td><td class="right " data-stat="games_back" csk="-10" >7.0</td><td class="right " data-stat="simple_rating_system" >0.4</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="STL" ><a href="/teams/STL/2023.shtml" title="St. Louis Cardinals">STL</a></th><td class="right " data-stat="W" >9</td><td class="right " data-stat="L" >16</td><td class="right " data-stat="games_back" csk="-9" >8.0</td><td class="right " data-stat="simple_rating_system" >-0.3</td></tr>
 
       
       <tr class="thead">
          <th aria-label="West" data-stat="West" colspan="6" class=" left center" >West</th>
       </tr>
-      <tr ><th scope="row" class="left " data-stat="team_ID" csk="LAD" ><a href="/teams/LAD/2023.shtml" title="Los Angeles Dodgers">LAD</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >11</td><td class="right " data-stat="games_back" csk="-1300" >--</td><td class="right " data-stat="simple_rating_system" >1.2</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="ARI" ><a href="/teams/ARI/2023.shtml" title="Arizona Diamondbacks">ARI</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-13" >0.5</td><td class="right " data-stat="simple_rating_system" >-0.2</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="SDP" ><a href="/teams/SDP/2023.shtml" title="San Diego Padres">SDP</a></th><td class="right " data-stat="W" >12</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-12" >1.5</td><td class="right " data-stat="simple_rating_system" >-0.6</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="SFG" ><a href="/teams/SFG/2023.shtml" title="San Francisco Giants">SFG</a></th><td class="right " data-stat="W" >10</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-10" >2.5</td><td class="right " data-stat="simple_rating_system" >-0.9</td></tr>
-<tr ><th scope="row" class="left " data-stat="team_ID" csk="COL" ><a href="/teams/COL/2023.shtml" title="Colorado Rockies">COL</a></th><td class="right " data-stat="W" >8</td><td class="right " data-stat="L" >17</td><td class="right " data-stat="games_back" csk="-8" >5.5</td><td class="right " data-stat="simple_rating_system" >-2.1</td></tr>
+      <tr ><th scope="row" class="left " data-stat="team_ID" csk="ARI" ><a href="/teams/ARI/2023.shtml" title="Arizona Diamondbacks">ARI</a></th><td class="right " data-stat="W" >14</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-1400" >--</td><td class="right " data-stat="simple_rating_system" >-0.2</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="LAD" ><a href="/teams/LAD/2023.shtml" title="Los Angeles Dodgers">LAD</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >12</td><td class="right " data-stat="games_back" csk="-13" >0.5</td><td class="right " data-stat="simple_rating_system" >0.8</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="SDP" ><a href="/teams/SDP/2023.shtml" title="San Diego Padres">SDP</a></th><td class="right " data-stat="W" >13</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-13" >1.0</td><td class="right " data-stat="simple_rating_system" >-0.4</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="SFG" ><a href="/teams/SFG/2023.shtml" title="San Francisco Giants">SFG</a></th><td class="right " data-stat="W" >11</td><td class="right " data-stat="L" >13</td><td class="right " data-stat="games_back" csk="-11" >2.0</td><td class="right " data-stat="simple_rating_system" >-0.8</td></tr>
+<tr ><th scope="row" class="left " data-stat="team_ID" csk="COL" ><a href="/teams/COL/2023.shtml" title="Colorado Rockies">COL</a></th><td class="right " data-stat="W" >8</td><td class="right " data-stat="L" >18</td><td class="right " data-stat="games_back" csk="-8" >6.0</td><td class="right " data-stat="simple_rating_system" >-2.1</td></tr>
 
 </table>
 
@@ -1500,7 +1500,7 @@ sr_goto_json["player_json"] = {
 <div>
 <strong>Most Likely Playoff Scenario</strong><br>
 
-NL: Byes: LAD, ATL. Wild Card Series: MIL vs STL and NYM vs CHC
+NL: Byes: LAD, ATL. Wild Card Series: MIL vs ARI and NYM vs CHC
 <br>
 
 AL: Byes: TBR, HOU. Wild Card Series: CLE vs BAL and TOR vs NYY
@@ -1512,7 +1512,7 @@ AL: Byes: TBR, HOU. Wild Card Series: CLE vs BAL and TOR vs NYY
 <div>
 <strong>Interleague Play</strong><br>
 
-  AL tied with NL 47-47 (436 runs to 434)
+  NL leads AL 51-48 (454 runs to 450)
 
 </div>
 
@@ -1634,7 +1634,7 @@ AL: Byes: TBR, HOU. Wild Card Series: CLE vs BAL and TOR vs NYY
 		
 			
 			<div class="fieldset">
-			<div class="formfield"><input type="submit" name="go_button" id="go_button_768" value="Go!"></div>
+			<div class="formfield"><input type="submit" name="go_button" id="go_button_605" value="Go!"></div>
 			</div>
 		
 	
@@ -1679,10 +1679,10 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
         </ul>
     </p>
     <div class="ad_smoke br">
-        <div><b>Who reached base in the most consecutive playoff games?</b></div>
+        <div><b>Which pitcher threw the most shutouts allowing three hits or less?</b></div>
         <a href="
   
-https://stathead.com/tiny/5ZpSG?&utm_medium=sr_xsite&utm_source=br&utm_campaign=2023_02_wdgt_home_stathead&utm_content=bttn_see_it_on_stathead" class="button sh-subscribe-button" target="_blank"><strong>See it on Stathead</strong></a>
+https://stathead.com/tiny/lTFPV?&utm_medium=sr_xsite&utm_source=br&utm_campaign=2023_02_wdgt_home_stathead&utm_content=bttn_see_it_on_stathead" class="button sh-subscribe-button" target="_blank"><strong>See it on Stathead</strong></a>
     </div>
     <div class="resources"><h3>Stathead Resources</h3></div>
     <div class="resource_buttons">
@@ -1722,24 +1722,24 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
         
         
 	<div class="" id="scores" >
-		<h2><a href="/boxes/?date=2023-04-25">MLB Scores (Tuesday, April 25)</a></h2>
+		<h2><a href="/boxes/?date=2023-04-26">MLB Scores (Wednesday, April 26)</a></h2>
 		<div class="game_summaries">
    
    
       <div class="game_summary nohover ">
 	<table class="teams">
 		<tbody>       
-		<tr class="winner">
-			<td><a href="/teams/COL/2023.shtml">Colorado Rockies</a></td>
-			<td class="right">5</td>
+		<tr class="loser">
+			<td><a href="/teams/TEX/2023.shtml">Texas Rangers</a></td>
+			<td class="right">3</td>
 			<td class="right gamelink">
-				<a href="/boxes/CLE/CLE202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/CIN/CIN202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
-		<tr class="loser">
-			<td><a href="/teams/CLE/2023.shtml">Cleveland Guardians</a></td>
-			<td class="right">1</td>
+		<tr class="winner">
+			<td><a href="/teams/CIN/2023.shtml">Cincinnati Reds</a></td>
+			<td class="right">5</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -1750,11 +1750,11 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Ryan Feltner (2-2)</td>
+				<td>Lucas Sims (1-0)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Peyton Battenfield (0-2)</td>
+				<td>Jonathan Hernández (0-1)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1764,15 +1764,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
       <div class="game_summary nohover ">
 	<table class="teams">
 		<tbody>       
-		<tr class="winner">
+		<tr class="loser">
 			<td><a href="/teams/BOS/2023.shtml">Boston Red Sox</a></td>
-			<td class="right">8</td>
+			<td class="right">2</td>
 			<td class="right gamelink">
-				<a href="/boxes/BAL/BAL202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/BAL/BAL202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
-		<tr class="loser">
+		<tr class="winner">
 			<td><a href="/teams/BAL/2023.shtml">Baltimore Orioles</a></td>
 			<td class="right">6</td>
 			<td class="right">
@@ -1785,15 +1785,11 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Corey Kluber (1-4)</td>
+				<td>Tyler Wells (1-1)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Kyle Bradish (1-1)</td>
-			</tr>
-			<tr>
-				<td><strong>S</strong></td>
-				<td>Kenley Jansen (6)</td>
+				<td>Tanner Houck (3-1)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1803,17 +1799,17 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
       <div class="game_summary nohover ">
 	<table class="teams">
 		<tbody>       
+		<tr class="loser">
+			<td><a href="/teams/CHW/2023.shtml">Chicago White Sox</a></td>
+			<td class="right">0</td>
+			<td class="right gamelink">
+				<a href="/boxes/TOR/TOR202304260.shtml">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
 		<tr class="winner">
-			<td><a href="/teams/LAD/2023.shtml">Los Angeles Dodgers</a></td>
+			<td><a href="/teams/TOR/2023.shtml">Toronto Blue Jays</a></td>
 			<td class="right">8</td>
-			<td class="right gamelink">
-				<a href="/boxes/PIT/PIT202304250.shtml">F<span class="no_mobile">inal</span></a>
-				
-			</td>
-		</tr>
-		<tr class="loser">
-			<td><a href="/teams/PIT/2023.shtml">Pittsburgh Pirates</a></td>
-			<td class="right">7</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -1824,15 +1820,11 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Yency Almonte (2-0)</td>
+				<td>Yusei Kikuchi (4-0)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Colin Holderman (0-1)</td>
-			</tr>
-			<tr>
-				<td><strong>S</strong></td>
-				<td>Shelby Miller (1)</td>
+				<td>Michael Kopech (0-3)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1843,16 +1835,55 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 	<table class="teams">
 		<tbody>       
 		<tr class="loser">
-			<td><a href="/teams/TEX/2023.shtml">Texas Rangers</a></td>
+			<td><a href="/teams/COL/2023.shtml">Colorado Rockies</a></td>
+			<td class="right">1</td>
+			<td class="right gamelink">
+				<a href="/boxes/CLE/CLE202304260.shtml">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
+		<tr class="winner">
+			<td><a href="/teams/CLE/2023.shtml">Cleveland Guardians</a></td>
+			<td class="right">4</td>
+			<td class="right">
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	
+	<table>
+		<tbody>
+			<tr>
+				<td><strong>W</strong></td>
+				<td>Tanner Bibee (1-0)</td>
+			</tr>
+			<tr>
+				<td><strong>L</strong></td>
+				<td>Germán Márquez (2-2)</td>
+			</tr>
+			<tr>
+				<td><strong>S</strong></td>
+				<td>Emmanuel Clase (8)</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
+
+      <div class="game_summary nohover ">
+	<table class="teams">
+		<tbody>       
+		<tr class="winner">
+			<td><a href="/teams/NYY/2023.shtml">New York Yankees</a></td>
+			<td class="right">12</td>
+			<td class="right gamelink">
+				<a href="/boxes/MIN/MIN202304260.shtml">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
+		<tr class="loser">
+			<td><a href="/teams/MIN/2023.shtml">Minnesota Twins</a></td>
 			<td class="right">6</td>
-			<td class="right gamelink">
-				<a href="/boxes/CIN/CIN202304250.shtml">F<span class="no_mobile">inal</span></a>
-				
-			</td>
-		</tr>
-		<tr class="winner">
-			<td><a href="/teams/CIN/2023.shtml">Cincinnati Reds</a></td>
-			<td class="right">7</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -1863,15 +1894,11 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Reiver Sanmartin (1-0)</td>
+				<td>Domingo Germán (2-2)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Ian Kennedy (0-1)</td>
-			</tr>
-			<tr>
-				<td><strong>S</strong></td>
-				<td>Alexis Díaz (3)</td>
+				<td>Kenta Maeda (0-4)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1881,17 +1908,126 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
       <div class="game_summary nohover ">
 	<table class="teams">
 		<tbody>       
+		<tr class="loser">
+			<td><a href="/teams/DET/2023.shtml">Detroit Tigers</a></td>
+			<td class="right">2</td>
+			<td class="right gamelink">
+				<a href="/boxes/MIL/MIL202304260.shtml">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
 		<tr class="winner">
+			<td><a href="/teams/MIL/2023.shtml">Milwaukee Brewers</a></td>
+			<td class="right">6</td>
+			<td class="right">
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	
+	<table>
+		<tbody>
+			<tr>
+				<td><strong>W</strong></td>
+				<td>Freddy Peralta (3-2)</td>
+			</tr>
+			<tr>
+				<td><strong>L</strong></td>
+				<td>Michael Lorenzen (0-1)</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
+
+      <div class="game_summary nohover ">
+	<table class="teams">
+		<tbody>       
+		<tr class="loser">
+			<td><a href="/teams/KCR/2023.shtml">Kansas City Royals</a></td>
+			<td class="right">0</td>
+			<td class="right gamelink">
+				<a href="/boxes/ARI/ARI202304260.shtml">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
+		<tr class="winner">
+			<td><a href="/teams/ARI/2023.shtml">Arizona Diamondbacks</a></td>
+			<td class="right">2</td>
+			<td class="right">
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	
+	<table>
+		<tbody>
+			<tr>
+				<td><strong>W</strong></td>
+				<td>Zac Gallen (4-1)</td>
+			</tr>
+			<tr>
+				<td><strong>L</strong></td>
+				<td>Ryan Yarbrough (0-3)</td>
+			</tr>
+			<tr>
+				<td><strong>S</strong></td>
+				<td>Andrew Chafin (4)</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
+
+      <div class="game_summary nohover ">
+	<table class="teams">
+		<tbody>       
+		<tr class="loser">
+			<td><a href="/teams/LAD/2023.shtml">Los Angeles Dodgers</a></td>
+			<td class="right">1</td>
+			<td class="right gamelink">
+				<a href="/boxes/PIT/PIT202304260.shtml">F<span class="no_mobile">inal</span></a>
+				
+			</td>
+		</tr>
+		<tr class="winner">
+			<td><a href="/teams/PIT/2023.shtml">Pittsburgh Pirates</a></td>
+			<td class="right">8</td>
+			<td class="right">
+			</td>
+		</tr>
+		</tbody>
+	</table>
+	
+	<table>
+		<tbody>
+			<tr>
+				<td><strong>W</strong></td>
+				<td>Roansy Contreras (3-1)</td>
+			</tr>
+			<tr>
+				<td><strong>L</strong></td>
+				<td>Phil Bickford (0-1)</td>
+			</tr>
+		</tbody>
+	</table>
+
+</div>
+
+      <div class="game_summary nohover ">
+	<table class="teams">
+		<tbody>       
+		<tr class="loser">
 			<td><a href="/teams/SEA/2023.shtml">Seattle Mariners</a></td>
 			<td class="right">5</td>
 			<td class="right gamelink">
-				<a href="/boxes/PHI/PHI202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/PHI/PHI202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
-		<tr class="loser">
+		<tr class="winner">
 			<td><a href="/teams/PHI/2023.shtml">Philadelphia Phillies</a></td>
-			<td class="right">3</td>
+			<td class="right">6</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -1902,15 +2038,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Marco Gonzales (2-0)</td>
+				<td>Craig Kimbrel (1-0)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Bailey Falter (0-4)</td>
+				<td>Justin Topa (0-2)</td>
 			</tr>
 			<tr>
 				<td><strong>S</strong></td>
-				<td>Paul Sewald (7)</td>
+				<td>José Alvarado (4)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1922,9 +2058,9 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>       
 		<tr class="winner">
 			<td><a href="/teams/HOU/2023.shtml">Houston Astros</a></td>
-			<td class="right">5</td>
+			<td class="right">1</td>
 			<td class="right gamelink">
-				<a href="/boxes/TBA/TBA202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/TBA/TBA202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
@@ -1941,46 +2077,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Luis Garcia (2-2)</td>
+				<td>Hunter Brown (3-0)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Drew Rasmussen (3-2)</td>
-			</tr>
-		</tbody>
-	</table>
-
-</div>
-
-      <div class="game_summary nohover ">
-	<table class="teams">
-		<tbody>       
-		<tr class="loser">
-			<td><a href="/teams/CHW/2023.shtml">Chicago White Sox</a></td>
-			<td class="right">0</td>
-			<td class="right gamelink">
-				<a href="/boxes/TOR/TOR202304250.shtml">F<span class="no_mobile">inal</span></a>
-				
-			</td>
-		</tr>
-		<tr class="winner">
-			<td><a href="/teams/TOR/2023.shtml">Toronto Blue Jays</a></td>
-			<td class="right">7</td>
-			<td class="right">
-			</td>
-		</tr>
-		</tbody>
-	</table>
-	
-	<table>
-		<tbody>
-			<tr>
-				<td><strong>W</strong></td>
-				<td>José Berríos (2-3)</td>
+				<td>Calvin Faucher (0-1)</td>
 			</tr>
 			<tr>
-				<td><strong>L</strong></td>
-				<td>Mike Clevinger (2-2)</td>
+				<td><strong>S</strong></td>
+				<td>Ryan Pressly (2)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -1992,15 +2097,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>       
 		<tr class="winner">
 			<td><a href="/teams/WSN/2023.shtml">Washington Nationals</a></td>
-			<td class="right">5</td>
+			<td class="right">4</td>
 			<td class="right gamelink">
-				<a href="/boxes/NYN/NYN202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/NYN/NYN202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
 		<tr class="loser">
 			<td><a href="/teams/NYM/2023.shtml">New York Mets</a></td>
-			<td class="right">0</td>
+			<td class="right">1</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -2011,15 +2116,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Josiah Gray (1-4)</td>
+				<td>MacKenzie Gore (3-1)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>José Butto (0-1)</td>
+				<td>Kodai Senga (3-1)</td>
 			</tr>
 			<tr>
 				<td><strong>S</strong></td>
-				<td>Mason Thompson (1)</td>
+				<td>Kyle Finnegan (5)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -2033,47 +2138,12 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 			<td><a href="/teams/MIA/2023.shtml">Miami Marlins</a></td>
 			<td class="right">4</td>
 			<td class="right gamelink">
-				<a href="/boxes/ATL/ATL202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/ATL/ATL202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
 		<tr class="winner">
 			<td><a href="/teams/ATL/2023.shtml">Atlanta Braves</a></td>
-			<td class="right">7</td>
-			<td class="right">
-			</td>
-		</tr>
-		</tbody>
-	</table>
-	
-	<table>
-		<tbody>
-			<tr>
-				<td><strong>W</strong></td>
-				<td>Charlie Morton (3-2)</td>
-			</tr>
-			<tr>
-				<td><strong>L</strong></td>
-				<td>Bryan Hoeing (0-1)</td>
-			</tr>
-		</tbody>
-	</table>
-
-</div>
-
-      <div class="game_summary nohover ">
-	<table class="teams">
-		<tbody>       
-		<tr class="loser">
-			<td><a href="/teams/SDP/2023.shtml">San Diego Padres</a></td>
-			<td class="right">0</td>
-			<td class="right gamelink">
-				<a href="/boxes/CHN/CHN202304250.shtml">F<span class="no_mobile">inal</span></a>
-				
-			</td>
-		</tr>
-		<tr class="winner">
-			<td><a href="/teams/CHC/2023.shtml">Chicago Cubs</a></td>
 			<td class="right">6</td>
 			<td class="right">
 			</td>
@@ -2085,11 +2155,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Justin Steele (4-0)</td>
+				<td>Michael Tonkin (2-1)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Blake Snell (0-4)</td>
+				<td>Dylan Floro (1-1)</td>
+			</tr>
+			<tr>
+				<td><strong>S</strong></td>
+				<td>A.J. Minter (5)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -2100,15 +2174,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 	<table class="teams">
 		<tbody>       
 		<tr class="winner">
-			<td><a href="/teams/DET/2023.shtml">Detroit Tigers</a></td>
-			<td class="right">4</td>
+			<td><a href="/teams/SDP/2023.shtml">San Diego Padres</a></td>
+			<td class="right">5</td>
 			<td class="right gamelink">
-				<a href="/boxes/MIL/MIL202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/CHN/CHN202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
 		<tr class="loser">
-			<td><a href="/teams/MIL/2023.shtml">Milwaukee Brewers</a></td>
+			<td><a href="/teams/CHC/2023.shtml">Chicago Cubs</a></td>
 			<td class="right">3</td>
 			<td class="right">
 			</td>
@@ -2120,50 +2194,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Mason Englert (1-1)</td>
+				<td>Nick Martinez (2-1)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Eric Lauer (3-2)</td>
+				<td>Brandon Hughes (0-1)</td>
 			</tr>
 			<tr>
 				<td><strong>S</strong></td>
-				<td>Jason Foley (2)</td>
-			</tr>
-		</tbody>
-	</table>
-
-</div>
-
-      <div class="game_summary nohover ">
-	<table class="teams">
-		<tbody>       
-		<tr class="loser">
-			<td><a href="/teams/NYY/2023.shtml">New York Yankees</a></td>
-			<td class="right">2</td>
-			<td class="right gamelink">
-				<a href="/boxes/MIN/MIN202304250.shtml">F<span class="no_mobile">inal</span></a>
-				
-			</td>
-		</tr>
-		<tr class="winner">
-			<td><a href="/teams/MIN/2023.shtml">Minnesota Twins</a></td>
-			<td class="right">6</td>
-			<td class="right">
-			</td>
-		</tr>
-		</tbody>
-	</table>
-	
-	<table>
-		<tbody>
-			<tr>
-				<td><strong>W</strong></td>
-				<td>Joe Ryan (5-0)</td>
-			</tr>
-			<tr>
-				<td><strong>L</strong></td>
-				<td>Nestor Cortes (3-1)</td>
+				<td>Josh Hader (9)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -2177,13 +2216,13 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 			<td><a href="/teams/OAK/2023.shtml">Oakland Athletics</a></td>
 			<td class="right">3</td>
 			<td class="right gamelink">
-				<a href="/boxes/ANA/ANA202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/ANA/ANA202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
 		<tr class="winner">
 			<td><a href="/teams/LAA/2023.shtml">Los Angeles Angels</a></td>
-			<td class="right">5</td>
+			<td class="right">11</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -2194,54 +2233,11 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Griffin Canning (1-0)</td>
+				<td>Patrick Sandoval (2-1)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Mason Miller (0-1)</td>
-			</tr>
-			<tr>
-				<td><strong>S</strong></td>
-				<td>Carlos Estévez (4)</td>
-			</tr>
-		</tbody>
-	</table>
-
-</div>
-
-      <div class="game_summary nohover ">
-	<table class="teams">
-		<tbody>       
-		<tr class="winner">
-			<td><a href="/teams/KCR/2023.shtml">Kansas City Royals</a></td>
-			<td class="right">5</td>
-			<td class="right gamelink">
-				<a href="/boxes/ARI/ARI202304250.shtml">F<span class="no_mobile">inal</span></a>
-				
-			</td>
-		</tr>
-		<tr class="loser">
-			<td><a href="/teams/ARI/2023.shtml">Arizona Diamondbacks</a></td>
-			<td class="right">4</td>
-			<td class="right">
-			</td>
-		</tr>
-		</tbody>
-	</table>
-	
-	<table>
-		<tbody>
-			<tr>
-				<td><strong>W</strong></td>
-				<td>Brady Singer (2-2)</td>
-			</tr>
-			<tr>
-				<td><strong>L</strong></td>
-				<td>Ryne Nelson (1-1)</td>
-			</tr>
-			<tr>
-				<td><strong>S</strong></td>
-				<td>Scott Barlow (3)</td>
+				<td>Luis Medina (0-1)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -2253,15 +2249,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>       
 		<tr class="loser">
 			<td><a href="/teams/STL/2023.shtml">St. Louis Cardinals</a></td>
-			<td class="right">4</td>
+			<td class="right">3</td>
 			<td class="right gamelink">
-				<a href="/boxes/SFN/SFN202304250.shtml">F<span class="no_mobile">inal</span></a>
+				<a href="/boxes/SFN/SFN202304260.shtml">F<span class="no_mobile">inal</span></a>
 				
 			</td>
 		</tr>
 		<tr class="winner">
 			<td><a href="/teams/SFG/2023.shtml">San Francisco Giants</a></td>
-			<td class="right">5</td>
+			<td class="right">7</td>
 			<td class="right">
 			</td>
 		</tr>
@@ -2272,11 +2268,15 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		<tbody>
 			<tr>
 				<td><strong>W</strong></td>
-				<td>Sean Hjelle (1-0)</td>
+				<td>Anthony DeSclafani (2-1)</td>
 			</tr>
 			<tr>
 				<td><strong>L</strong></td>
-				<td>Ryan Helsley (0-2)</td>
+				<td>Jordan Hicks (0-2)</td>
+			</tr>
+			<tr>
+				<td><strong>S</strong></td>
+				<td>Camilo Doval (3)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -2291,31 +2291,31 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 
 <div>
 
-<h3>Yesterday's Top Performers (Tuesday, April 25)</h3>
+<h3>Yesterday's Top Performers (Wednesday, April 26)</h3>
 <div class="data_grid section_wrapper">
    
    <div>
    <table class="stats_table"><thead><tr><th class="left" colspan="99">Batters</th></tr></thead><tbody>
-   <tr><td><a href="/players/j/janseda01.shtml">Danny Jansen</a></td><td><em>TOR</em></td>
-      <td>3-4, 2 hr, 4 rbi, 3 r</td>
+   <tr><td><a href="/players/b/baeji01.shtml">Ji Hwan Bae</a></td><td><em>PIT</em></td>
+      <td>3-4, 1 rbi, 2 r, 3 sb</td>
       
-    <td><a href="/boxes/TOR/TOR202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/a/albieoz01.shtml">Ozzie Albies</a></td><td><em>ATL</em></td>
-      <td>2-4, 2 hr, 2 rbi, 2 r</td>
+    <td><a href="/boxes/PIT/PIT202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/r/ruizes01.shtml">Esteury Ruiz</a></td><td><em>OAK</em></td>
+      <td>2-3, 1 rbi, 1 r, 4 sb</td>
       
-    <td><a href="/boxes/ATL/ATL202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/c/carroco02.shtml">Corbin Carroll</a></td><td><em>ARI</em></td>
-      <td>3-4, 2 r, 2 sb</td>
+    <td><a href="/boxes/ANA/ANA202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/g/goldspa01.shtml">Paul Goldschmidt</a></td><td><em>STL</em></td>
+      <td>4-5, 2 hr, 2 rbi, 2 r</td>
       
-    <td><a href="/boxes/ARI/ARI202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/d/duranja01.shtml">Jarren Duran</a></td><td><em>BOS</em></td>
-      <td>3-4, 1 hr, 4 rbi, 3 r</td>
+    <td><a href="/boxes/SFN/SFN202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/m/miranjo01.shtml">Jose Miranda</a></td><td><em>MIN</em></td>
+      <td>2-3, 2 hr, 3 rbi, 3 r</td>
       
-    <td><a href="/boxes/BAL/BAL202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/g/gomesya01.shtml">Yan Gomes</a></td><td><em>CHC</em></td>
-      <td>4-4, 1 hr, 3 rbi, 2 r</td>
+    <td><a href="/boxes/MIN/MIN202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/c/crawfjp01.shtml">J.P. Crawford</a></td><td><em>SEA</em></td>
+      <td>3-4, 1 hr, 4 rbi, 1 r</td>
       
-    <td><a href="/boxes/CHN/CHN202304250.shtml">box</a></td></tr>
+    <td><a href="/boxes/PHI/PHI202304260.shtml">box</a></td></tr>
    
    </tbody>
    <tfoot><tr><td colspan=4>
@@ -2330,26 +2330,26 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
    
    <div>
    <table class="stats_table"><thead><tr><th class="left" colspan="99">Pitchers</th></tr></thead><tbody>
-   <tr><td><a href="/players/b/berrijo01.shtml">José Berríos</a></td><td><em>TOR</em></td>
-      <td>7.0 ip, 0 er, 9 k, 1 bb</td>
+   <tr><td><a href="/players/b/brownhu01.shtml">Hunter Brown</a></td><td><em>HOU</em></td>
+      <td>7.0 ip, 0 er, 8 k, 2 bb</td>
       
-    <td><a href="/boxes/TOR/TOR202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/m/mortoch02.shtml">Charlie Morton</a></td><td><em>ATL</em></td>
-      <td>7.0 ip, 1 er, 9 k, 2 bb</td>
+    <td><a href="/boxes/TBA/TBA202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/g/galleza01.shtml">Zac Gallen</a></td><td><em>ARI</em></td>
+      <td>6.1 ip, 0 er, 12 k, 0 bb</td>
       
-    <td><a href="/boxes/ATL/ATL202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/g/grayjo03.shtml">Josiah Gray</a></td><td><em>WSN</em></td>
-      <td>6.0 ip, 0 er, 9 k, 1 bb</td>
+    <td><a href="/boxes/ARI/ARI202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/c/contrro01.shtml">Roansy Contreras</a></td><td><em>PIT</em></td>
+      <td>6.0 ip, 0 er, 5 k, 2 bb</td>
       
-    <td><a href="/boxes/NYN/NYN202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/g/garcilu05.shtml">Luis Garcia</a></td><td><em>HOU</em></td>
-      <td>6.0 ip, 0 er, 7 k, 2 bb</td>
+    <td><a href="/boxes/PIT/PIT202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/g/gorema01.shtml">MacKenzie Gore</a></td><td><em>WSN</em></td>
+      <td>6.0 ip, 1 er, 10 k, 2 bb</td>
       
-    <td><a href="/boxes/TBA/TBA202304250.shtml">box</a></td></tr>
-   <tr><td><a href="/players/f/feltnry01.shtml">Ryan Feltner</a></td><td><em>COL</em></td>
-      <td>6.0 ip, 0 er, 6 k, 0 bb</td>
+    <td><a href="/boxes/NYN/NYN202304260.shtml">box</a></td></tr>
+   <tr><td><a href="/players/k/kikucyu01.shtml">Yusei Kikuchi</a></td><td><em>TOR</em></td>
+      <td>5.2 ip, 0 er, 8 k, 1 bb</td>
       
-    <td><a href="/boxes/CLE/CLE202304250.shtml">box</a></td></tr>
+    <td><a href="/boxes/TOR/TOR202304260.shtml">box</a></td></tr>
    
    </tbody>
    <tfoot><tr><td colspan=4>
@@ -2398,11 +2398,11 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
          <th aria-label="Play Description" data-stat="play_desc" scope="col" class=" poptip sort_default_asc center" >Play Description</th>
       </tr>
       </thead>
-<tbody><tr class=" bottom_inning" ><th scope="row" class="left " data-stat="inning" csk="74" >b9</th><td class="right " data-stat="outs" >2</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=SFN202304250-74" data-stat="runners_on_bases_pbp" csk="1.010" >-2-</td><td class="right " data-stat="win_probability_added_bat" >86%</td><td class="left " data-stat="score_batting_team" >3-4</td><td class="left " data-stat="batting_team_id" >SFG</td><td class="left " data-stat="batter" csk="Sabol,Blake" ><a href="/boxes/SFN/SFN202304250.shtml">B.&nbsp;Sabol</a></td><td class="left " data-stat="pitcher" csk="Helsley,Ryan" ><a href="/boxes/SFN/SFN202304250.shtml">R.&nbsp;Helsley</a></td><td class="left " data-stat="pitching_team_id" >STL</td><td class="left " data-stat="play_desc" csk="23.074" >Home Run (Fly Ball to Deep CF)</td></tr>
-<tr class=" top_inning" ><th scope="row" class="left " data-stat="inning" csk="71" >t8</th><td class="right " data-stat="outs" >1</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=PIT202304250-71" data-stat="runners_on_bases_pbp" csk="2.011" >12-</td><td class="right " data-stat="win_probability_added_bat" >52%</td><td class="left " data-stat="score_batting_team" >5-7</td><td class="left " data-stat="batting_team_id" >LAD</td><td class="left " data-stat="batter" csk="Taylor,Chris" ><a href="/boxes/PIT/PIT202304250.shtml">C.&nbsp;Taylor</a></td><td class="left " data-stat="pitcher" csk="Holderman,Colin" ><a href="/boxes/PIT/PIT202304250.shtml">C.&nbsp;Holderman</a></td><td class="left " data-stat="pitching_team_id" >PIT</td><td class="left " data-stat="play_desc" csk="23.071" >Home Run (Fly Ball to Deep LF-CF)</td></tr>
-<tr class=" bottom_inning" ><th scope="row" class="left " data-stat="inning" csk="74" >b8</th><td class="right " data-stat="outs" >2</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=CIN202304250-74" data-stat="runners_on_bases_pbp" csk="2.110" >-23</td><td class="right " data-stat="win_probability_added_bat" >50%</td><td class="left " data-stat="score_batting_team" >5-6</td><td class="left " data-stat="batting_team_id" >CIN</td><td class="left " data-stat="batter" csk="India,Jonathan" ><a href="/boxes/CIN/CIN202304250.shtml">J.&nbsp;India</a></td><td class="left " data-stat="pitcher" csk="Kennedy,Ian" ><a href="/boxes/CIN/CIN202304250.shtml">I.&nbsp;Kennedy</a></td><td class="left " data-stat="pitching_team_id" >TEX</td><td class="left " data-stat="play_desc" csk="20.074" >Single to CF (Line Drive)</td></tr>
-<tr class=" top_inning" ><th scope="row" class="left " data-stat="inning" csk="56" >t8</th><td class="right " data-stat="outs" >1</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=SFN202304250-56" data-stat="runners_on_bases_pbp" csk="2.101" >1-3</td><td class="right " data-stat="win_probability_added_bat" >27%</td><td class="left " data-stat="score_batting_team" >1-2</td><td class="left " data-stat="batting_team_id" >STL</td><td class="left " data-stat="batter" csk="O'Neill,Tyler" ><a href="/boxes/SFN/SFN202304250.shtml">T.&nbsp;O'Neill</a></td><td class="left " data-stat="pitcher" csk="Alexander,Scott" ><a href="/boxes/SFN/SFN202304250.shtml">S.&nbsp;Alexander</a></td><td class="left " data-stat="pitching_team_id" >SFG</td><td class="left " data-stat="play_desc" csk="21.056" >Double to RF (Fly Ball to Deep RF Line)</td></tr>
-<tr class=" bottom_inning" ><th scope="row" class="left " data-stat="inning" csk="71" >b9</th><td class="right iz" data-stat="outs" >0</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=SFN202304250-71" data-stat="runners_on_bases_pbp" csk="1.001" >1--</td><td class="right " data-stat="win_probability_added_bat" >26%</td><td class="left " data-stat="score_batting_team" >2-4</td><td class="left " data-stat="batting_team_id" >SFG</td><td class="left " data-stat="batter" csk="Yastrzemski,Mike" ><a href="/boxes/SFN/SFN202304250.shtml">M.&nbsp;Yastrzemski</a></td><td class="left " data-stat="pitcher" csk="Helsley,Ryan" ><a href="/boxes/SFN/SFN202304250.shtml">R.&nbsp;Helsley</a></td><td class="left " data-stat="pitching_team_id" >STL</td><td class="left " data-stat="play_desc" csk="21.071" >Double to CF (Line Drive to Deep CF-RF)</td></tr>
+<tbody><tr class=" bottom_inning" ><th scope="row" class="left " data-stat="inning" csk="66" >b8</th><td class="right " data-stat="outs" >1</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=ATL202304260-66" data-stat="runners_on_bases_pbp" csk="1.001" >1--</td><td class="right " data-stat="win_probability_added_bat" >43%</td><td class="left " data-stat="score_batting_team" >3-4</td><td class="left " data-stat="batting_team_id" >ATL</td><td class="left " data-stat="batter" csk="Rosario,Eddie" ><a href="/boxes/ATL/ATL202304260.shtml">E.&nbsp;Rosario</a></td><td class="left " data-stat="pitcher" csk="Floro,Dylan" ><a href="/boxes/ATL/ATL202304260.shtml">D.&nbsp;Floro</a></td><td class="left " data-stat="pitching_team_id" >MIA</td><td class="left " data-stat="play_desc" csk="22.066" >Triple to RF (Ground Ball)</td></tr>
+<tr class=" top_inning" ><th scope="row" class="left " data-stat="inning" csk="14" >t2</th><td class="right " data-stat="outs" >2</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=PHI202304260-14" data-stat="runners_on_bases_pbp" csk="3.111" >123</td><td class="right " data-stat="win_probability_added_bat" >35%</td><td class="left " data-stat="score_batting_team" >0-2</td><td class="left " data-stat="batting_team_id" >SEA</td><td class="left " data-stat="batter" csk="Crawford,J.P." ><a href="/boxes/PHI/PHI202304260.shtml">J.&nbsp;Crawford</a></td><td class="left " data-stat="pitcher" csk="Walker,Taijuan" ><a href="/boxes/PHI/PHI202304260.shtml">T.&nbsp;Walker</a></td><td class="left " data-stat="pitching_team_id" >PHI</td><td class="left " data-stat="play_desc" csk="23.014" >Home Run (Fly Ball to Deep CF)</td></tr>
+<tr class=" bottom_inning" ><th scope="row" class="left " data-stat="inning" csk="33" >b4</th><td class="right " data-stat="outs" >2</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=CHN202304260-33" data-stat="runners_on_bases_pbp" csk="1.001" >1--</td><td class="right " data-stat="win_probability_added_bat" >24%</td><td class="left " data-stat="score_batting_team" >0-2</td><td class="left " data-stat="batting_team_id" >CHC</td><td class="left " data-stat="batter" csk="Mancini,Trey" ><a href="/boxes/CHN/CHN202304260.shtml">T.&nbsp;Mancini</a></td><td class="left " data-stat="pitcher" csk="Wacha,Michael" ><a href="/boxes/CHN/CHN202304260.shtml">M.&nbsp;Wacha</a></td><td class="left " data-stat="pitching_team_id" >SDP</td><td class="left " data-stat="play_desc" csk="23.033" >Home Run (Fly Ball to Deep LF)</td></tr>
+<tr class=" bottom_inning" ><th scope="row" class="left " data-stat="inning" csk="66" >b8</th><td class="right iz" data-stat="outs" >0</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=PHI202304260-66" data-stat="runners_on_bases_pbp" csk="1.001" >1--</td><td class="right " data-stat="win_probability_added_bat" >24%</td><td class="left " data-stat="score_batting_team" >4-5</td><td class="left " data-stat="batting_team_id" >PHI</td><td class="left " data-stat="batter" csk="Marsh,Brandon" ><a href="/boxes/PHI/PHI202304260.shtml">B.&nbsp;Marsh</a></td><td class="left " data-stat="pitcher" csk="Topa,Justin" ><a href="/boxes/PHI/PHI202304260.shtml">J.&nbsp;Topa</a></td><td class="left " data-stat="pitching_team_id" >SEA</td><td class="left " data-stat="play_desc" csk="20.066" >Single to RF (Ground Ball)</td></tr>
+<tr class=" top_inning" ><th scope="row" class="left " data-stat="inning" csk="26" >t4</th><td class="right " data-stat="outs" >2</td><td class="left endpoint" data-endpoint="/tools/def.cgi?html=1&game-event=CHN202304260-26" data-stat="runners_on_bases_pbp" csk="2.011" >12-</td><td class="right " data-stat="win_probability_added_bat" >23%</td><td class="left " data-stat="score_batting_team" >0-0</td><td class="left " data-stat="batting_team_id" >SDP</td><td class="left " data-stat="batter" csk="Cronenworth,Jake" ><a href="/boxes/CHN/CHN202304260.shtml">J.&nbsp;Cronenworth</a></td><td class="left " data-stat="pitcher" csk="Smyly,Drew" ><a href="/boxes/CHN/CHN202304260.shtml">D.&nbsp;Smyly</a></td><td class="left " data-stat="pitching_team_id" >CHC</td><td class="left " data-stat="play_desc" csk="22.026" >Triple to RF (Line Drive to Deep RF Line)</td></tr>
 
 </table>
 
@@ -2462,13 +2462,13 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 <h3><a href="http://www.mlbtraderumors.com/">MLB Trade Rumors</a></h3>
 <div>
 <ul>
-<li><a href="https://www.mlbtraderumors.com/2023/04/diamondbacks-release-madison-bumgarner.html">Diamondbacks Release Madison Bumgarner</a></li>
-<li><a href="https://www.mlbtraderumors.com/2023/04/2024-25-mlb-free-agents.html">2024-25 MLB Free Agents</a></li>
+<li><a href="https://www.mlbtraderumors.com/2023/04/pirates-mike-burrows-pitching-prospect-tommy-john-surgery.html">Pirates&#8217; Mike Burrows Undergoes Tommy John Surgery</a></li>
+<li><a href="https://www.mlbtraderumors.com/2023/04/dick-groat-passes-away.html">Dick Groat Passes Away</a></li>
+<li><a href="https://www.mlbtraderumors.com/2023/04/orioles-promote-joey-ortiz-top-prospect.html">Orioles Promote Joey Ortiz</a></li>
+<li><a href="https://www.mlbtraderumors.com/2023/04/the-opener-pitching-matchup-mris-mlb-debuts.html">The Opener: Pitching Matchup, MRIs, MLB Debuts</a></li>
 <li><a href="https://www.mlbtraderumors.com/2023/04/mlb-trade-rumors-podcast-athletics-move-twins-rotation-reynolds-extension.html">MLB Trade Rumors Podcast: Athletics Move, Twins Rotation, Reynolds Extension</a></li>
-<li><a href="https://www.mlbtraderumors.com/2023/04/german-marquez-leaves-game-with-apparent-injury.html">Germán Márquez Leaves Game With Apparent Injury</a></li>
-<li><a href="https://www.mlbtraderumors.com/2023/04/padres-recall-tom-cosgrove-for-mlb-debut.html">Padres Recall Tom Cosgrove For MLB Debut</a></li>
-<li><a href="https://www.mlbtraderumors.com/2023/04/rays-to-designate-heath-hembree-select-zack-burdi.html">Rays To Designate Heath Hembree, Select Zack Burdi</a></li>
-<li><a href="https://www.mlbtraderumors.com/2023/04/largest-contract-in-franchise-history-for-each-mlb-team-2.html">Largest Contract In Franchise History For Each MLB Team</a></li>
+<li><a href="https://www.mlbtraderumors.com/2023/04/robbie-ray-to-miss-remainder-of-season-due-to-flexor-tendon-surgery.html">Robbie Ray To Miss Remainder Of Season Due To Flexor Tendon Surgery</a></li>
+<li><a href="https://www.mlbtraderumors.com/2023/04/as-outright-dermis-garcia.html">A&#8217;s Outright Dermis Garcia</a></li>
 </ul>
 </div></div>
 <div>
@@ -2509,8 +2509,8 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 
  
 
-</ul> <p class="opener tooltip" data-id="more_calendar" data-textopen="Less" data-textclosed="More">View <span>More</span> Items</p> </div><div><h3><a href="/bullpen/April_26
-">Today in Baseball History</a></h3></div><p><strong>Site Last Updated:</strong> Wednesday, April 26,  3:49AM
+</ul> <p class="opener tooltip" data-id="more_calendar" data-textopen="Less" data-textclosed="More">View <span>More</span> Items</p> </div><div><h3><a href="/bullpen/April_27
+">Today in Baseball History</a></h3></div><p><strong>Site Last Updated:</strong> Thursday, April 27,  3:54AM
 </p>
 	</div><!-- div.section#variable -->
         
@@ -2845,7 +2845,7 @@ https://stathead.com/baseball-sample-searches.html?&utm_medium=sr_xsite&utm_sour
 		
 			
 			<div class="fieldset">
-			<div class="formfield"><input type="submit" name="go_button" id="go_button_559" value="Go!"></div>
+			<div class="formfield"><input type="submit" name="go_button" id="go_button_965" value="Go!"></div>
 			</div>
 		
 	
@@ -3447,7 +3447,7 @@ sr_goto_json["rs_json"] = {
 		
 			
 			<div class="fieldset">
-			<div class="formfield"><input type="submit" name="go_button" id="go_button_217" value="Go!"></div>
+			<div class="formfield"><input type="submit" name="go_button" id="go_button_909" value="Go!"></div>
 			</div>
 		
 	
@@ -3829,7 +3829,7 @@ sr_goto_json["rs_json"] = {
 		
 			
 			<div class="fieldset">
-			<div class="formfield"><input type="submit" name="go_button" id="go_button_380" value="Go!"></div>
+			<div class="formfield"><input type="submit" name="go_button" id="go_button_185" value="Go!"></div>
 			</div>
 		
 	
@@ -3856,115 +3856,7 @@ sr_goto_json["rs_json"] = {
 	<div class="" id="games" >
 		<h2><a href="/previews/">MLB Probable Pitchers</a></h2>
 		<div>
-	<h3>Today's Games (Wednesday, April 26)</h3>
-	<div class="game">
-	  
-	  <a href="/teams/TEX/2023.shtml">Texas Rangers</a>
-	  @
-	  <a href="/teams/CIN/2023.shtml">Cincinnati Reds</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/CIN202304260.shtml">12:35 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/BOS/2023.shtml">Boston Red Sox</a>
-	  @
-	  <a href="/teams/BAL/2023.shtml">Baltimore Orioles</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/BAL202304260.shtml">1:05 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/CHW/2023.shtml">Chicago White Sox</a>
-	  @
-	  <a href="/teams/TOR/2023.shtml">Toronto Blue Jays</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/TOR202304260.shtml">1:07 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/COL/2023.shtml">Colorado Rockies</a>
-	  @
-	  <a href="/teams/CLE/2023.shtml">Cleveland Guardians</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/CLE202304260.shtml">1:10 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/NYY/2023.shtml">New York Yankees</a>
-	  @
-	  <a href="/teams/MIN/2023.shtml">Minnesota Twins</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/MIN202304260.shtml">1:10 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/DET/2023.shtml">Detroit Tigers</a>
-	  @
-	  <a href="/teams/MIL/2023.shtml">Milwaukee Brewers</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/MIL202304260.shtml">1:40 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/KCR/2023.shtml">Kansas City Royals</a>
-	  @
-	  <a href="/teams/ARI/2023.shtml">Arizona D'Backs</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/ARI202304260.shtml">3:40 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/LAD/2023.shtml">Los Angeles Dodgers</a>
-	  @
-	  <a href="/teams/PIT/2023.shtml">Pittsburgh Pirates</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/PIT202304260.shtml">6:35 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/SEA/2023.shtml">Seattle Mariners</a>
-	  @
-	  <a href="/teams/PHI/2023.shtml">Philadelphia Phillies</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/PHI202304260.shtml">6:40 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/HOU/2023.shtml">Houston Astros</a>
-	  @
-	  <a href="/teams/TBR/2023.shtml">Tampa Bay Rays</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/TBA202304260.shtml">6:40 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/WSN/2023.shtml">Washington Nationals</a>
-	  @
-	  <a href="/teams/NYM/2023.shtml">New York Mets</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/NYN202304260.shtml">7:10 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/MIA/2023.shtml">Miami Marlins</a>
-	  @
-	  <a href="/teams/ATL/2023.shtml">Atlanta Braves</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/ATL202304260.shtml">7:20 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/SDP/2023.shtml">San Diego Padres</a>
-	  @
-	  <a href="/teams/CHC/2023.shtml">Chicago Cubs</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/CHN202304260.shtml">7:40 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/OAK/2023.shtml">Oakland Athletics</a>
-	  @
-	  <a href="/teams/LAA/2023.shtml">Los Angeles Angels</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/ANA202304260.shtml">9:38 pm</a></div>
-	</div>
-	<div class="game">
-	  
-	  <a href="/teams/STL/2023.shtml">St. Louis Cardinals</a>
-	  @
-	  <a href="/teams/SFG/2023.shtml">San Francisco Giants</a>
-		<div class="game_time" tz="E"><a href="/previews/2023/SFN202304260.shtml">9:45 pm</a></div>
-	</div>
-</div>
-<div>
-	<h3>Thursday, April 27</h3>
+	<h3>Today's Games (Thursday, April 27)</h3>
 	<div class="game">
 	  
 	  <a href="/teams/MIA/2023.shtml">Miami Marlins</a>
@@ -4142,6 +4034,114 @@ sr_goto_json["rs_json"] = {
 	  @
 	  <a href="/teams/LAD/2023.shtml">Los Angeles Dodgers</a>
 		<div class="game_time" tz="E"><a href="/previews/2023/LAN202304280.shtml">10:10 pm</a></div>
+	</div>
+</div>
+<div>
+	<h3>Saturday, April 29</h3>
+	<div class="game">
+	  
+	  <a href="/teams/PIT/2023.shtml">Pittsburgh Pirates</a>
+	  @
+	  <a href="/teams/WSN/2023.shtml">Washington Nationals</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/WAS202304290.shtml">1:05 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/BAL/2023.shtml">Baltimore Orioles</a>
+	  @
+	  <a href="/teams/DET/2023.shtml">Detroit Tigers</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/DET202304290.shtml">1:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/KCR/2023.shtml">Kansas City Royals</a>
+	  @
+	  <a href="/teams/MIN/2023.shtml">Minnesota Twins</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/MIN202304290.shtml">2:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/SEA/2023.shtml">Seattle Mariners</a>
+	  @
+	  <a href="/teams/TOR/2023.shtml">Toronto Blue Jays</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/TOR202304290.shtml">3:07 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/CHC/2023.shtml">Chicago Cubs</a>
+	  @
+	  <a href="/teams/MIA/2023.shtml">Miami Marlins</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/MIA202304290.shtml">4:05 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/ATL/2023.shtml">Atlanta Braves</a>
+	  @
+	  <a href="/teams/NYM/2023.shtml">New York Mets</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/NYN202304290.shtml">4:05 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/CIN/2023.shtml">Cincinnati Reds</a>
+	  @
+	  <a href="/teams/OAK/2023.shtml">Oakland Athletics</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/OAK202304290.shtml">4:07 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/CLE/2023.shtml">Cleveland Guardians</a>
+	  @
+	  <a href="/teams/BOS/2023.shtml">Boston Red Sox</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/BOS202304290.shtml">4:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/PHI/2023.shtml">Philadelphia Phillies</a>
+	  @
+	  <a href="/teams/HOU/2023.shtml">Houston Astros</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/HOU202304290.shtml">5:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/SFG/2023.shtml">San Francisco Giants</a>
+	  @
+	  <a href="/teams/SDP/2023.shtml">San Diego Padres</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/SDN202304290.shtml">6:05 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/NYY/2023.shtml">New York Yankees</a>
+	  @
+	  <a href="/teams/TEX/2023.shtml">Texas Rangers</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/TEX202304290.shtml">7:05 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/TBR/2023.shtml">Tampa Bay Rays</a>
+	  @
+	  <a href="/teams/CHW/2023.shtml">Chicago White Sox</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/CHA202304290.shtml">7:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/LAA/2023.shtml">Los Angeles Angels</a>
+	  @
+	  <a href="/teams/MIL/2023.shtml">Milwaukee Brewers</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/MIL202304290.shtml">7:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/ARI/2023.shtml">Arizona D'Backs</a>
+	  @
+	  <a href="/teams/COL/2023.shtml">Colorado Rockies</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/COL202304290.shtml">8:10 pm</a></div>
+	</div>
+	<div class="game">
+	  
+	  <a href="/teams/STL/2023.shtml">St. Louis Cardinals</a>
+	  @
+	  <a href="/teams/LAD/2023.shtml">Los Angeles Dodgers</a>
+		<div class="game_time" tz="E"><a href="/previews/2023/LAN202304290.shtml">9:10 pm</a></div>
 	</div>
 </div>
 
@@ -4441,7 +4441,7 @@ sr_goto_json["rs_json"] = {
 	<a href="https://www.paypal.me/sportsref" data-tip="Send us money via PayPal" data-label="PayPal" aria-label="PayPal" class="poptip"><svg class="icon paypal"><use xlink:href="#ic-paypal"></use></svg></a>
 
 <p>Every <a href="https://www.sports-reference.com/blog/sports-reference-social-media/">Sports Reference Social Media Account</a></p>
-<p><strong>Site Last Updated:</strong> Wednesday, April 26,  3:49AM
+<p><strong>Site Last Updated:</strong> Thursday, April 27,  3:54AM
 </p>
 <p><a href="https://www.sports-reference.com/feedback/" class="button" style="display: block">Question, Comment, Feedback, or Correction?</a></p>
 
@@ -4515,7 +4515,7 @@ sr_goto_json["rs_json"] = {
 	
 	
 	
-	<li><a href="https://fbref.com/it/?utm_source=br&utm_medium=sr_xsite&utm_campaign=2023_01_srnav_footer">Calcio</a></li>
+	<li><a href="https://fbref.com/de/?utm_source=br&utm_medium=sr_xsite&utm_campaign=2023_01_srnav_footer">Fußball</a></li>
 
 	<li><a href="https://www.sports-reference.com/blog/?utm_source=br&utm_medium=sr_xsite&utm_campaign=2023_01_srnav_footer">Blog</a></li>
 

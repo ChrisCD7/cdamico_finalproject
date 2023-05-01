@@ -13,6 +13,7 @@ import webbrowser
 import pygame as pg
 import os
 import requests
+import bs4
 
 from settings import *
 # from https://automatetheboringstuff.com/2e/chapter12/
@@ -26,6 +27,12 @@ playFile = open('bsblref.txt', 'wb')
 for chunk in res.iter_content(100000):
     playFile.write(chunk)
 playFile.close()
+
+
+res = requests.get('https://www.baseball-reference.com')
+res.raise_for_status()
+noStarchSoup = bs4.BeautifulSoup(res.text, 'html.parser')
+type(noStarchSoup)
 
 class Requests('requests.models.Response'):
     res.status_code == requests.codes.ok
