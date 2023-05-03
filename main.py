@@ -12,29 +12,47 @@ has a interface through pygame
 import webbrowser
 import pygame as pg
 import os
-import requests
 import bs4
-
+import requests
 from settings import *
-# from https://automatetheboringstuff.com/2e/chapter12/
 from bs4 import BeautifulSoup
 
 
-URL = 'https://www.baseball-reference.com'
+# Ask for player's name input
+player_name = input("Enter an MLB player's name: ")
 
-# get info from website
-res = requests.get(URL)
-res.raise_for_status()
-soup = bs4.BeautifulSoup(res.text, 'html.parser')
-# print(type(soup))
-# print(soup)
-elem = soup.select('div')
-# print(len(elem))
-print(str(elem))
-# dump into excel
+# Create the URL to search for the player's stats
+url = "https://www.baseball-reference.com/search/search.fcgi?search=" + player_name.replace(" ", "+")
 
-response = requests.get(URL)
+# Make the request and parse the response HTML
+response = requests.get(url)
 soup = BeautifulSoup(response.content, "html.parser")
-table = soup.find("table", {"id": "team_pitching"})
-player_name = table.find("tbody").find("tr").find("td", {"data-stat": "player"}).find("a").text
-print(player_name)
+
+# Find the link to the player's page
+player_link = soup.find("ul", {"class": "searchlist"}).find("strong").find("a").get("href")
+
+# Create the URL for the player's stats page
+player_url = "https://www.baseball-reference.com" + player_link
+
+# Make the request for the player's stats and parse the response HTML
+player_response = requests.get(player_url)
+player_soup = BeautifulSoup(player_response.content, "html.parser")
+
+# Find the player's stats table and print the table headers
+stats_table = player_soup.find("table", {"id": "batting_standard"})
+headers = stats_table.find_all("th")
+for header in headers:
+    print(header.text, end="\t")
+
+print()
+
+# Find the player's stats rows and print the statistics
+stats_rows = stats_table.find("tbody").find_all("tr")
+for row in stats_rows:
+    cells = row.find_all("td")
+    for cell in cells:
+        print(cell.text, end="\t")
+    print()
+
+
+
