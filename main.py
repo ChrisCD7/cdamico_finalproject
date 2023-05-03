@@ -18,6 +18,16 @@ from settings import *
 from bs4 import BeautifulSoup
 
 
+
+# Initialize pygame and set up the window
+pg.init()
+screen = pg.display.set_mode((800, 600))
+pg.display.set_caption("MLB Player Stats")
+
+# Set up the font and colors for text
+font = pg.font.SysFont(None, 30)
+text_color = pg.Color("black")
+
 # Ask for player's name input
 player_name = input("Enter an MLB player's name: ")
 
