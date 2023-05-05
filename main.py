@@ -25,7 +25,7 @@ pg.display.set_caption("MLB Player Stats")
 
 # Set up the font and colors for text
 font = pg.font.SysFont(None, 30)
-text_color = pg.Color("black")
+text_color = pg.Color("teal")
 
 # Ask for player's name input
 player_name = ""
