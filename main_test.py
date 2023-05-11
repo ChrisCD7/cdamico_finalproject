@@ -1,6 +1,9 @@
 # File created by Chris D'Amico
 
 '''
+Sources:
+- https://automatetheboringstuff.com/2e/chapter12/
+
 Goals:
 Create screen scraper that...
 finds player stats (mlb),
@@ -21,13 +24,15 @@ from bs4 import BeautifulSoup
 # Initialize pygame and set up the window
 pg.init()
 screen = pg.display.set_mode((800, 600))
+screen.fill(WHITE)
 pg.display.set_caption("MLB Player Stats")
 
 # Set up the font and colors for text
 font = pg.font.SysFont(None, 30)
 text_color = pg.Color("teal")
 
-# Ask for player's name input
+
+# # Ask for player's name input
 player_name = ""
 while not player_name:
     event = pg.event.poll()
@@ -89,8 +94,11 @@ for row in stats_rows:
     y_pos += 30
 
 # Update the display
-pg.display.flip()
+def draw(self):
+    self.screen.fill(WHITE)
+    pg.display.flip()
 
+draw()
 # Wait for the user to close the window
 while True:
     event = pg.event.wait()
@@ -98,9 +106,5 @@ while True:
         pg.quit()
         quit()
 
-# Initialize pg and set up the window
-pg.init()
-screen = pg.display.set_mode((800, 600))
-pg.display.set_caption("MLB Player Stats")
 
 
