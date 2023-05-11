@@ -21,8 +21,8 @@ from bs4 import BeautifulSoup
 
 # Pygame initialization
 pygame.init()
-screen = pygame.display.set_mode((400, 300))
-font = pygame.font.Font(None, 20)
+screen = pygame.display.set_mode((800, 700))
+font = pygame.font.Font(None, 50)
 
 # Function to scrape player's career stats
 def scrape_career_stats(player_name):
@@ -60,6 +60,7 @@ def scrape_career_stats(player_name):
 # Pygame loop
 running = True
 player_name = ""
+stats = None
 
 while running:
     for event in pygame.event.get():
@@ -67,25 +68,9 @@ while running:
             running = False
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RETURN:
-                # Scrape and display career stats for the player
+                # Scrape career stats for the player
                 stats = scrape_career_stats(player_name)
-                if stats:
-                    # Clear the player name input
-                    player_name = ""
-
-                    # Display the stats
-                    screen.fill((255, 255, 255))
-                    y = 20
-                    for key, value in stats.items():
-                        text = font.render(f"{key}: {value}", True, (0, 0, 0))
-                        screen.blit(text, (20, y))
-                        y += 20
-                else:
-                    # If no stats found, display an error message
-                    screen.fill((255, 255, 255))
-                    error_text = font.render("Error, no player found or no stats available. ", True, (255, 0, 0))
-                    screen.blit(error_text, (20, 20))
-
+                player_name = ""  # Clear the player name input
             elif event.key == pygame.K_BACKSPACE:
                 # Remove the last character from the player name input
                 player_name = player_name[:-1]
@@ -97,6 +82,13 @@ while running:
     screen.fill((255, 255, 255))
     input_text = font.render("Player Name: " + player_name, True, (0, 0, 0))
     screen.blit(input_text, (20, 20))
+
+    if stats:
+        y = 60
+        for key, value in stats.items():
+            text = font.render(f"{key}: {value}", True, (0, 0, 0))
+            screen.blit(text, (20, y))
+            y += 20
 
     pygame.display.flip()
 
