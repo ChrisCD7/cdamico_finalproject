@@ -84,7 +84,7 @@ while running:
     screen.blit(input_text, (20, 20))
 
     # Display the career stats
-    if event.key == pygame.K_RETURN:
+    if event == pygame.K_RETURN:
     # Scrape and display career stats for the player
     
         if stats:

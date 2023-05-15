@@ -1,47 +1,30 @@
 import pygame
-import requests
-from bs4 import BeautifulSoup
+from MLB_StatsAPI import player_stats
 
 pygame.init()
 
 # Set up the Pygame window
 screen = pygame.display.set_mode((640, 480))
-pygame.display.set_caption("Baseball Reference Scraper")
+pygame.display.set_caption("MLB.com Scraper")
 
 # Set up the Pygame font
 font = pygame.font.Font(None, 28)
 
-def scrape_career_stats(player_name):
-    """Scrapes the career stats for the given player from Baseball Reference."""
+def get_player_career_stats(player_name):
+    """Retrieves the career stats for the given player using the MLB-StatsAPI."""
 
-    # Construct the URL for the player's page on Baseball Reference
-    base_url = "https://www.baseball-reference.com"
-    search_url = base_url + "/search/search.fcgi"
-    search_params = {"search": player_name}
-    response = requests.get(search_url, params=search_params)
-    soup = BeautifulSoup(response.content, "html.parser")
-    search_results = soup.find_all("div", {"class": "search-item-name"})
+    # Search for the player by name
+    search_results = player_stats.search(player_name)
     if len(search_results) == 0:
         print(f"No results found for '{player_name}'")
         return None
-    player_path = search_results[0].find("a")["href"]
-    player_url = base_url + player_path
+    player_id = search_results[0]["player_id"]
 
-    # Scrape the player's career stats
-    response = requests.get(player_url)
-    soup = BeautifulSoup(response.content, "html.parser")
-    stats_table = soup.find("table", {"id": "batting"})
-    if stats_table is None:
+    # Get the player's career stats
+    stats = player_stats.PlayerStats(player_id).career_stats()
+    if stats is None:
         print(f"No stats found for '{player_name}'")
         return None
-    stats = {}
-    rows = stats_table.find_all("tr")
-    for row in rows:
-        cells = row.find_all(["th", "td"])
-        if len(cells) > 1:
-            key = cells[0].get_text()
-            value = cells[-1].get_text()
-            stats[key] = value
 
     return stats
 
@@ -63,8 +46,8 @@ while True:
                 # Remove the last character from the player name
                 player_name = player_name[:-1]
             elif event.key == pygame.K_RETURN:
-                # Scrape and display career stats for the player
-                stats = scrape_career_stats(player_name)
+                # Retrieve and display career stats for the player
+                stats = get_player_career_stats(player_name)
                 if stats:
                     # Clear the player name input
                     player_name = ""
@@ -88,3 +71,5 @@ while True:
     screen.blit(player_name_surface, player_name_rect)
 
     pygame.display.update()
+
+
