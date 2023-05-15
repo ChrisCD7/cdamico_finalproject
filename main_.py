@@ -7,6 +7,8 @@ Sources
 - https://www.youtube.com/watch?v=gRLHr664tXA
 - https://github.com/techwithtim/Beautiful-Soup-Tutorial/blob/
 - https://automatetheboringstuff.com/2e/chapter12/
+- https://github.com/toddrob99/MLB-StatsAPI
+
 
 Goals:
 Create screen scraper that...

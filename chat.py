@@ -1,5 +1,5 @@
 import pygame
-from MLB_StatsAPI import player_stats
+from pybaseball import playerid_lookup, player_stats
 
 pygame.init()
 
@@ -11,17 +11,17 @@ pygame.display.set_caption("MLB.com Scraper")
 font = pygame.font.Font(None, 28)
 
 def get_player_career_stats(player_name):
-    """Retrieves the career stats for the given player using the MLB-StatsAPI."""
+    """Retrieves the career stats for the given player using pybaseball."""
 
     # Search for the player by name
-    search_results = player_stats.search(player_name)
-    if len(search_results) == 0:
+    player_lookup = playerid_lookup(player_name)
+    if player_lookup.empty:
         print(f"No results found for '{player_name}'")
         return None
-    player_id = search_results[0]["player_id"]
+    player_id = player_lookup.iloc[0]['key_mlbam']
 
     # Get the player's career stats
-    stats = player_stats.PlayerStats(player_id).career_stats()
+    stats = player_stats(player_id)
     if stats is None:
         print(f"No stats found for '{player_name}'")
         return None
@@ -71,5 +71,3 @@ while True:
     screen.blit(player_name_surface, player_name_rect)
 
     pygame.display.update()
-
-
