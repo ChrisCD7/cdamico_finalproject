@@ -21,7 +21,6 @@ import pygame
 import requests
 from bs4 import BeautifulSoup
 
-
 pygame.init()
 
 # Set up the Pygame window
@@ -103,7 +102,7 @@ while True:
     pygame.draw.rect(screen, (0, 0, 0), input_rect, 2)
     input_surface = font.render(input_text, True, (0, 0, 0))
     screen.blit(input_surface, (input_rect.x + 5, input_rect.y + 5))
-    
+
     if player_stats:
         # Render the player's career stats
         y = 300
@@ -114,5 +113,5 @@ while True:
             season_surface = font.render(season_text, True, (0, 0, 0))
             screen.blit(season_surface, (100, y))
             y += 30
-    player_stats()
+
     pygame.display.update()
