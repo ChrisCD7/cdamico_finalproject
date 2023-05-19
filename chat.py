@@ -1,73 +1,91 @@
+
+
+
+
 import pygame
-from pybaseball import playerid_lookup, player_stats
+import requests
+from bs4 import BeautifulSoup
 
+# Pygame initialization
 pygame.init()
+screen = pygame.display.set_mode((400, 300))
+font = pygame.font.Font(None, 20)
 
-# Set up the Pygame window
-screen = pygame.display.set_mode((640, 480))
-pygame.display.set_caption("MLB.com Scraper")
+# Function to scrape player's career stats
+def scrape_career_stats(player_name):
+    # Format player name for the URL
+    player_name = player_name.replace(" ", "_")
+    url = f"https://www.baseball-reference.com/players/{player_name[0]}/{player_name.lower()[:5]}{player_name.lower()[5:]}01.shtml"
 
-# Set up the Pygame font
-font = pygame.font.Font(None, 28)
+    # Send a GET request to the URL
+    response = requests.get(url)
 
-def get_player_career_stats(player_name):
-    """Retrieves the career stats for the given player using pybaseball."""
+    if response.status_code == 200:
+        # Parse the HTML content
+        soup = BeautifulSoup(response.content, "html.parser")
 
-    # Search for the player by name
-    player_lookup = playerid_lookup(player_name)
-    if player_lookup.empty:
-        print(f"No results found for '{player_name}'")
-        return None
-    player_id = player_lookup.iloc[0]['key_mlbam']
+        # Find the table containing career stats
+        table = soup.find("table", {"id": "batting_standard"})
 
-    # Get the player's career stats
-    stats = player_stats(player_id)
-    if stats is None:
-        print(f"No stats found for '{player_name}'")
-        return None
+        if table:
+            # Extract the table rows
+            rows = table.find_all("tr")
 
-    return stats
+            # Extract the column headers
+            headers = [th.text for th in rows[0].find_all("th")]
 
-# Set up the Pygame input
-player_name = ""
-player_name_surface = font.render(player_name, True, (0, 0, 0))
-player_name_rect = player_name_surface.get_rect()
-player_name_rect.x = 20
-player_name_rect.y = 20
+            # Extract the career stats
+            career_stats = [td.text for td in rows[-1].find_all("td")]
+
+            # Create a dictionary with the stats and headers
+            stats_dict = dict(zip(headers, career_stats))
+
+            return stats_dict
+
+    return None
 
 # Pygame loop
-while True:
+running = True
+player_name = ""
+stats = None
+
+while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            pygame.quit()
-            quit()
+            running = False
         elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_BACKSPACE:
-                # Remove the last character from the player name
+            if event.key == pygame.K_RETURN:
+                # Scrape career stats for the player
+                stats = scrape_career_stats(player_name)
+                player_name = ""  # Clear the player name input
+            elif event.key == pygame.K_BACKSPACE:
+                # Remove the last character from the player name input
                 player_name = player_name[:-1]
-            elif event.key == pygame.K_RETURN:
-                # Retrieve and display career stats for the player
-                stats = get_player_career_stats(player_name)
-                if stats:
-                    # Clear the player name input
-                    player_name = ""
-
-                    # Display the stats
-                    screen.fill((255, 255, 255))
-                    y = 20
-                    for key, value in stats.items():
-                        text = font.render(f"{key}: {value}", True, (0, 0, 0))
-                        screen.blit(text, (20, y))
-                        y += 20
-
-                    pygame.display.flip()
             else:
-                # Add the pressed character to the player name
+                # Append the typed character to the player name input
                 player_name += event.unicode
-            player_name_surface = font.render(player_name, True, (0, 0, 0))
 
-    # Clear the screen and draw the player name input
+    # Display the player name input
     screen.fill((255, 255, 255))
-    screen.blit(player_name_surface, player_name_rect)
+    input_text = font.render("Player Name: " + player_name, True, (0, 0, 0))
+    screen.blit(input_text, (20, 20))
 
-    pygame.display.update()
+    # Display the career stats
+    if event == pygame.K_RETURN:
+    # Scrape and display career stats for the player
+    
+        if stats:
+        # Clear the player name input
+            player_name = ""
+
+        # Display the stats
+        screen.fill((255, 255, 255))
+        y = 20
+        for key, value in stats.items():
+            text = font.render(f"{key}: {value}", True, (0, 0, 0))
+            screen.blit(text, (20, y))
+            y += 20
+
+        pygame.display.flip()
+
+pygame.quit()

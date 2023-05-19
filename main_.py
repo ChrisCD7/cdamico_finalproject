@@ -2,12 +2,12 @@
 
 ''' 
 Sources
-- Automate the Boring Stuff
-- Chat GPT
 - https://www.youtube.com/watch?v=gRLHr664tXA
 - https://github.com/techwithtim/Beautiful-Soup-Tutorial/blob/
 - https://automatetheboringstuff.com/2e/chapter12/
 - https://github.com/toddrob99/MLB-StatsAPI
+- https://mlb.com
+- https://basball-reference.com
 
 
 Goals:
@@ -21,86 +21,98 @@ import pygame
 import requests
 from bs4 import BeautifulSoup
 
-# Pygame initialization
+
 pygame.init()
-screen = pygame.display.set_mode((400, 300))
-font = pygame.font.Font(None, 20)
 
-# Function to scrape player's career stats
-def scrape_career_stats(player_name):
-    # Format player name for the URL
-    player_name = player_name.replace(" ", "_")
-    url = f"https://www.baseball-reference.com/players/{player_name[0]}/{player_name.lower()[:5]}{player_name.lower()[5:]}01.shtml"
+# Set up the Pygame window
+screen = pygame.display.set_mode((800, 600))
+pygame.display.set_caption("Baseball-Reference Scraper")
 
-    # Send a GET request to the URL
-    response = requests.get(url)
+# Set up the Pygame font
+font = pygame.font.Font(None, 24)
 
-    if response.status_code == 200:
-        # Parse the HTML content
-        soup = BeautifulSoup(response.content, "html.parser")
+def scrape_player_stats(player_name):
+    """Scrapes the player's career stats from Baseball-Reference."""
 
-        # Find the table containing career stats
-        table = soup.find("table", {"id": "batting_standard"})
+    # Format the player's name for the URL
+    formatted_name = player_name.lower().replace(" ", "-")
 
-        if table:
-            # Extract the table rows
-            rows = table.find_all("tr")
+    # Construct the URL for the player's page on Baseball-Reference
+    base_url = "https://www.baseball-reference.com"
+    player_url = f"{base_url}/players/{formatted_name[0]}/{formatted_name}.shtml"
 
-            # Extract the column headers
-            headers = [th.text for th in rows[0].find_all("th")]
+    # Send a GET request to the player's URL
+    response = requests.get(player_url)
+    soup = BeautifulSoup(response.content, "html.parser")
 
-            # Extract the career stats
-            career_stats = [td.text for td in rows[-1].find_all("td")]
+    # Find the table with career stats
+    stats_table = soup.find("table", {"id": "batting_standard"})
 
-            # Create a dictionary with the stats and headers
-            stats_dict = dict(zip(headers, career_stats))
+    if stats_table is None:
+        print(f"No career stats found for '{player_name}'")
+        return None
 
-            return stats_dict
+    # Extract the header row and data rows from the table
+    header_row = stats_table.find("thead").find("tr")
+    data_rows = stats_table.find("tbody").find_all("tr")
 
-    return None
+    # Extract the column names from the header row
+    column_names = [th.get_text() for th in header_row.find_all("th")]
+
+    # Extract the stats for each season from the data rows
+    stats = []
+    for row in data_rows:
+        season_stats = {}
+        cells = row.find_all("td")
+        for i, cell in enumerate(cells):
+            column_name = column_names[i]
+            season_stats[column_name] = cell.get_text()
+        stats.append(season_stats)
+
+    return stats
+
+# Set up the Pygame input
+input_text = ""
+input_rect = pygame.Rect(300, 250, 200, 30)
+input_active = False
 
 # Pygame loop
-running = True
-player_name = ""
-stats = None
-
-while running:
+while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            running = False
+            pygame.quit()
+            quit()
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RETURN:
-                # Scrape career stats for the player
-                stats = scrape_career_stats(player_name)
-                player_name = ""  # Clear the player name input
+                # Scrape and display career stats for the player
+                player_stats = scrape_player_stats(input_text)
+                input_text = ""
+                input_active = False
+
             elif event.key == pygame.K_BACKSPACE:
-                # Remove the last character from the player name input
-                player_name = player_name[:-1]
+                # Remove the last character from the input text
+                input_text = input_text[:-1]
             else:
-                # Append the typed character to the player name input
-                player_name += event.unicode
+                # Add the pressed character to the input text
+                input_text += event.unicode
 
-    # Display the player name input
+    # Clear the screen
     screen.fill((255, 255, 255))
-    input_text = font.render("Player Name: " + player_name, True, (0, 0, 0))
-    screen.blit(input_text, (20, 20))
 
-    # Display the career stats
-    if event == pygame.K_RETURN:
-    # Scrape and display career stats for the player
+    # Render the input box
+    pygame.draw.rect(screen, (0, 0, 0), input_rect, 2)
+    input_surface = font.render(input_text, True, (0, 0, 0))
+    screen.blit(input_surface, (input_rect.x + 5, input_rect.y + 5))
     
-        if stats:
-        # Clear the player name input
-            player_name = ""
-
-        # Display the stats
-        screen.fill((255, 255, 255))
-        y = 20
-        for key, value in stats.items():
-            text = font.render(f"{key}: {value}", True, (0, 0, 0))
-            screen.blit(text, (20, y))
-            y += 20
-
-        pygame.display.flip()
-
-pygame.quit()
+    if player_stats:
+        # Render the player's career stats
+        y = 300
+        for season in player_stats:
+            season_text = ""
+            for key, value in season.items():
+                season_text += f"{key}: {value} "
+            season_surface = font.render(season_text, True, (0, 0, 0))
+            screen.blit(season_surface, (100, y))
+            y += 30
+    player_stats()
+    pygame.display.update()
